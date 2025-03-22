@@ -12,31 +12,32 @@ print(greet("Marina"))
 
 #Task 3
 def calc (a, b, default="multiply"):
-    result = None
-    try:
         match default:
             case "multiply":
-                result = a * b
+                try:
+                   return a * b
+                except TypeError:
+                   return "You can't multiply those values!"
             case "add":
-                result = a + b
+                return a + b
             case "subtract":
-                result = a - b
+                return a - b
             case "modulo":
-                result = a % b
+                return a % b
             case "power":
-                result = a ** b
-            case "int_divide":
-                result = a // b
-            case  "divide":
-                result = a / b
+                return a ** b
+            case "int_divide" | "divide":
+                try:
+                    if default == "int_divide":
+                      return a // b
+                    elif default == "divide":
+                        return a / b
+                except ZeroDivisionError:
+                    return "You can't divide by 0!"
             case _:
-                return "Invalid operation!"
-    except ZeroDivisionError:
-        return "You can't divide by 0!"
-    except TypeError:
-        return "You can't multiply those values!"
-    
-    return result
+                    return "Invalid operation!"
+            
+
 
 #Task 4 Data type conversion
 def data_type_conversion (value, name):
@@ -111,10 +112,7 @@ def titleize (text):
 def hangman(secret, guess):
     result = ""
     for i in secret:
-        if i in guess:
-            result += i
-        else:
-            result += "_"
+            result += i if i in guess else "_"
     return result
 
 #task 10 Pig Latin, string manipulation
