@@ -1,0 +1,19 @@
+1. Which sections of the website are restricted for crawling?
+- Looks like a lot of bots are disallowed from all pages
+2. Are there specific rules for certain user agents?
+- For others, they indicate an agent and what section is that agent is disallowed from
+for example:
+# T12288
+Disallow: /wiki/Wikipedia_talk:Articles_for_deletion/
+Disallow: /wiki/Wikipedia_talk%3AArticles_for_deletion/
+Disallow: /wiki/Wikipedia_talk:Votes_for_deletion/
+Disallow: /wiki/Wikipedia_talk%3AVotes_for_deletion/
+Disallow: /wiki/Wikipedia_talk:Pages_for_deletion/
+Disallow: /wiki/Wikipedia_talk%3APages_for_deletion/
+Disallow: /wiki/Wikipedia_talk:Miscellany_for_deletion/
+Disallow: /wiki/Wikipedia_talk%3AMiscellany_for_deletion/
+Disallow: /wiki/Wikipedia_talk:Miscellaneous_deletion/
+Disallow: /wiki/Wikipedia_talk%3AMiscellaneous_deletion/
+agent T12288 can't crawl wiki/Wikipedia_talk:Articles_for_deletion/ and others from the list.
+3. Most often website admins want to avoid copying of the content and protect their website from any malicious activity.
+Also some bots may cause significant traffic and slow down website performance.
