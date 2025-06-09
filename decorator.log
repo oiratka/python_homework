@@ -1,0 +1,6 @@
+Function say_hello called with args=(), kwargs={}
+Function say_hello returned None
+Function task_four called with args=(1, 3, 5), kwargs={}
+Function task_four returned True
+Function task_five called with args=(), kwargs={'name': 'Marina', 'age': 39}
+Function task_five returned <function logger_decorator at 0x102beb740>
