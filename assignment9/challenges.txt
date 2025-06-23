@@ -1,0 +1,4 @@
+I tried to follow the example provided in the lesson with following-sibling::div logic
+but it didn't work out.
+Read about the difference between ancestor and following-sibling.
+Ancestor helps to follow the tree upwards and sibling horizontally.
