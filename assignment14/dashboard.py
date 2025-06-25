@@ -22,7 +22,7 @@ fig = px.bar(
     x='Name',
     y="#",
     color = 'Team',
-    title=f"Top 25 MLB Players by {stat_selected} ({year_selected})"
+    title=f"Top MLB Players by {stat_selected} ({year_selected})"
 )
 st.plotly_chart(fig)
 
@@ -31,7 +31,7 @@ st.plotly_chart(fig)
 st.header("Team Performance over Time")
 
 #allow user to select multiple teams
-teams = df_teams_clean['Team'].unique()
+teams = sorted(df_teams_clean['Team'].unique())
 teams_selected = st.multiselect("Select team(s)", options=teams, default=teams[:2])
 
 #select year range using slider
@@ -68,11 +68,10 @@ else:
  #Viz №3 Win % by League
     
 st.header("Average Win % by League")
-#filter data by selected year range
-avg_league_df = df_teams_clean[
-    (df_teams_clean['Year'] >= year_range[0]) & 
-    (df_teams_clean['Year'] <= year_range[1])
-].copy()
+#let user choose year
+year_for_win = st.selectbox('Select a year for Win % by League', df_teams_clean['Year'].sort_values().unique())
+
+avg_league_df = df_teams_clean[df_teams_clean['Year'] == year_for_win].copy()
 
 # Calculate win percentage W/(W+L)
 avg_league_df['Win%'] = avg_league_df['W'] / (avg_league_df['W'] + avg_league_df['L'])
@@ -80,13 +79,18 @@ avg_league_df['Win%'] = avg_league_df['W'] / (avg_league_df['W'] + avg_league_df
 # Group by League
 league_avg = avg_league_df.groupby("League")['Win%'].mean().reset_index()
 #create a bar chart
+color_choice = {
+    'AL' : 'orange',
+    'NL' : 'blue'
+}
 fig = px.bar(
     league_avg,
     x="League",
     y="Win%",
-    title=f"Average Win % by League ({year_range[0]}–{year_range[1]})",
+    title=f"Average Win % by League {year_for_win}",
     text_auto=".2%",
-    color="League"
+    color="League",
+    color_discrete_map = color_choice
 )
 st.plotly_chart(fig)
 

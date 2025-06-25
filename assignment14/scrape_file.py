@@ -48,12 +48,11 @@ def scrape_data():
             all_hrefs.append((year,href,league))
 
         all_years = sorted(set(year for year, _, _ in all_hrefs if year.isdigit()), reverse=True)
-        recent_years = all_years[:3]
-    
+
         seen = set()
         filtered_links = []
         for (year, url, league) in all_hrefs:
-            if year in recent_years:
+            if year.isdigit() and int(year) >= 2000:
                key = (year, league)
                if key not in seen:
                     seen.add(key)

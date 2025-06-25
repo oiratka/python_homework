@@ -1,4 +1,795 @@
 Team,W,L,T,WP,GB,Year,League
+New York Yankees,87,74,.540,0,"$92,538,260",2000,AL
+Boston Red Sox,85,77,.525,2½,"$77,940,333",2000,AL
+Toronto Blue Jays,83,79,.512,4½,"$46,238,333",2000,AL
+Baltimore Orioles,74,88,.457,13½,"$81,447,435",2000,AL
+Tampa Bay Devil Rays,69,92,.429,18,"$62,765,129",2000,AL
+Chicago White Sox,95,67,.586,0,"$31,133,500",2000,AL
+Cleveland Indians,90,72,.556,5,"$75,880,971",2000,AL
+Detroit Tigers,79,83,.488,16,"$58,265,167",2000,AL
+Kansas City Royals,77,85,.475,18,"$23,433,000",2000,AL
+Minnesota Twins,69,93,.426,26,"$16,519,500",2000,AL
+Oakland Athletics,91,70,.565,0,"$31,971,333",2000,AL
+Seattle Mariners,91,71,.562,½,"$58,915,000",2000,AL
+Anaheim Angels,82,80,.506,9½,"$51,464,167",2000,AL
+Texas Rangers,71,91,.438,20½,"$70,795,921",2000,AL
+American League Team Standings,,,,,,2000,AL
+Atlanta Braves,95,67,.586,0,"$84,537,836",2000,NL
+New York Mets,94,68,.580,1,"$79,509,776",2000,NL
+Florida Marlins,79,82,.491,15½,"$20,072,000",2000,NL
+Montreal Expos,67,95,.414,28,"$34,807,333",2000,NL
+Philadelphia Phillies,65,97,.401,30,"$47,308,000",2000,NL
+St. Louis Cardinals,95,67,.586,0,"$61,453,863",2000,NL
+Cincinnati Reds,85,77,.525,10,"$46,867,200",2000,NL
+Milwaukee Brewers,73,89,.451,22,"$36,505,333",2000,NL
+Houston Astros,72,90,.444,23,"$51,289,111",2000,NL
+Pittsburgh Pirates,69,93,.426,26,"$28,928,333",2000,NL
+Chicago Cubs,65,97,.401,30,"$60,539,333",2000,NL
+San Francisco Giants,97,65,.599,0,"$53,737,826",2000,NL
+Los Angeles Dodgers,86,76,.531,11,"$88,124,286",2000,NL
+Arizona Diamondbacks,85,77,.525,12,"$81,027,333",2000,NL
+Colorado Rockies,82,80,.506,15,"$61,111,190",2000,NL
+San Diego Padres,76,86,.469,21,"$54,821,000",2000,NL
+National League Team Standings,,,,,,2000,NL
+New York Yankees,95,65,.594,0,"$109,791,893",2001,AL
+Boston Red Sox,82,79,.509,13½,"$109,558,908",2001,AL
+Toronto Blue Jays,80,82,.494,16,"$75,798,500",2001,AL
+Baltimore Orioles,63,98,.391,32½,"$72,426,328",2001,AL
+Tampa Bay Devil Rays,62,100,.383,34,"$54,798,500",2001,AL
+Cleveland Indians,91,71,.562,0,"$91,974,979",2001,AL
+Minnesota Twins,85,77,.525,6,"$24,350,000",2001,AL
+Chicago White Sox,83,79,.512,8,"$62,363,000",2001,AL
+Detroit Tigers,66,96,.407,25,"$49,831,167",2001,AL
+Kansas City Royals,65,97,.401,26,"$35,643,000",2001,AL
+Seattle Mariners,116,46,.716,0,"$75,652,500",2001,AL
+Oakland Athletics,102,60,.630,13,"$33,810,750",2001,AL
+Anaheim Angels,75,87,.463,41,"$46,568,180",2001,AL
+Texas Rangers,73,89,.451,43,"$88,504,421",2001,AL
+American League Team Standings,,,,,,2001,AL
+Atlanta Braves,88,74,.543,0,"$91,851,587",2001,NL
+Philadelphia Phillies,86,76,.531,2,"$41,664,167",2001,NL
+New York Mets,82,80,.506,6,"$93,174,428",2001,NL
+Florida Marlins,76,86,.469,12,"$35,504,167",2001,NL
+Montreal Expos,68,94,.420,20,"$34,774,500",2001,NL
+Houston Astros,93,69,.574,0,"$60,382,667",2001,NL
+St. Louis Cardinals,93,69,.574,0,"$77,270,855",2001,NL
+Chicago Cubs,88,74,.543,5,"$64,015,833",2001,NL
+Milwaukee Brewers,68,94,.420,25,"$43,089,333",2001,NL
+Cincinnati Reds,66,96,.407,27,"$45,227,882",2001,NL
+Pittsburgh Pirates,62,100,.383,31,"$52,698,333",2001,NL
+Arizona Diamondbacks,92,70,.568,0,"$81,206,513",2001,NL
+San Francisco Giants,90,72,.556,2,"$63,332,667",2001,NL
+Los Angeles Dodgers,86,76,.531,6,"$108,980,952",2001,NL
+San Diego Padres,79,83,.488,13,"$38,333,117",2001,NL
+Colorado Rockies,73,89,.451,19,"$71,068,000",2001,NL
+National League Team Standings,,,,,,2001,NL
+New York Yankees,103,58,.640,--,"$125,928,583",2002,AL
+Boston Red Sox,93,69,.574,10½,"$108,366,060",2002,AL
+Toronto Blue Jays,78,84,.481,25½,"$76,864,333",2002,AL
+Baltimore Orioles,67,95,.414,36½,"$60,493,487",2002,AL
+Tampa Bay Devil Rays,55,106,.342,48,"$34,380,000",2002,AL
+Minnesota Twins,94,67,.584,--,"$40,225,000",2002,AL
+Chicago White Sox,81,81,.500,13½,"$57,052,833",2002,AL
+Cleveland Indians,74,88,.457,20½,"$78,909,448",2002,AL
+Kansas City Royals,62,100,.383,32½,"$47,257,000",2002,AL
+Detroit Tigers,55,106,.342,39,"$55,048,000",2002,AL
+Oakland Athletics,103,59,.636,--,"$39,679,746",2002,AL
+Anaheim Angels,99,63,.611,4,"$61,721,667",2002,AL
+Seattle Mariners,93,69,.574,10,"$80,282,668",2002,AL
+Texas Rangers,72,90,.444,31,"$105,302,124",2002,AL
+American League Team Standings,,,,,,2002,AL
+Atlanta Braves,101,59,.631,--,"$93,470,367",2002,NL
+Montreal Expos,83,79,.512,19,"$38,670,500",2002,NL
+Philadelphia Phillies,80,81,.497,21½,"$57,955,000",2002,NL
+Florida Marlins,79,83,.488,23,"$41,979,917",2002,NL
+New York Mets,75,86,.466,26½,"$94,633,593",2002,NL
+St. Louis Cardinals,97,65,.599,--,"$74,098,267",2002,NL
+Houston Astros,84,78,.519,13,"$63,448,417",2002,NL
+Cincinnati Reds,78,84,.481,19,"$45,050,390",2002,NL
+Pittsburgh Pirates,72,89,.447,24½,"$42,323,598",2002,NL
+Chicago Cubs,67,95,.414,30,"$75,690,833",2002,NL
+Milwaukee Brewers,56,106,.346,41,"$50,287,833",2002,NL
+Arizona Diamondbacks,98,64,.605,--,"$102,820,000",2002,NL
+San Francisco Giants,95,66,.590,2½,"$78,299,835",2002,NL
+Los Angeles Dodgers,92,70,.568,6,"$94,850,952",2002,NL
+Colorado Rockies,73,89,.451,25,"$56,851,043",2002,NL
+San Diego Padres,66,96,.407,32,"$41,425,000",2002,NL
+National League Team Standings,,,,,,2002,NL
+New York Yankees,101,61,1,.623,--,2003,AL
+Boston Red Sox,95,67,0,.586,6,2003,AL
+Toronto Blue Jays,86,76,0,.531,15,2003,AL
+Baltimore Orioles,71,91,1,.438,30,2003,AL
+Tampa Bay Devil Rays,63,99,0,.389,38,2003,AL
+Minnesota Twins,90,72,0,.556,--,2003,AL
+Chicago White Sox,86,76,0,.531,4,2003,AL
+Kansas City Royals,83,79,0,.512,7,2003,AL
+Cleveland Indians,68,94,0,.420,22,2003,AL
+Detroit Tigers,43,119,0,.265,47,2003,AL
+Oakland Athletics,96,66,0,.593,--,2003,AL
+Seattle Mariners,93,69,0,.574,3,2003,AL
+Anaheim Angels,77,85,0,.475,19,2003,AL
+Texas Rangers,71,91,0,.438,25,2003,AL
+2003 American League Final Standings,,,,,,2003,AL
+Atlanta Braves,101,61,.623,--,"$106,243,667",2003,NL
+Florida Marlins,91,71,.562,10,"$49,050,000",2003,NL
+Philadelphia Phillies,86,76,.531,15,"$70,780,000",2003,NL
+Montreal Expos,83,79,.512,18,"$51,948,500",2003,NL
+New York Mets,66,95,.410,34½,"$117,176,620",2003,NL
+Chicago Cubs,88,74,.543,--,"$79,868,333",2003,NL
+Houston Astros,87,75,.537,1,"$71,040,000",2003,NL
+St. Louis Cardinals,85,77,.525,3,"$83,496,666",2003,NL
+Pittsburgh Pirates,75,87,.463,13,"$54,812,429",2003,NL
+Cincinnati Reds,69,93,.426,19,"$59,355,667",2003,NL
+Milwaukee Brewers,68,94,.420,20,"$40,627,000",2003,NL
+San Francisco Giants,100,61,.621,--,"$82,852,167",2003,NL
+Los Angeles Dodgers,85,77,.525,15½,"$105,872,620",2003,NL
+Arizona Diamondbacks,84,78,.519,16½,"$80,640,333",2003,NL
+Colorado Rockies,74,88,.457,26½,"$67,179,667",2003,NL
+San Diego Padres,64,98,.395,36½,"$47,928,000",2003,NL
+National League Team Standings,,,,,,2003,NL
+2003 N.L. Final Standings,,,,,,2003,NL
+New York Yankees,101,61,0,.623,--,2004,AL
+Boston Red Sox,98,64,0,.605,3,2004,AL
+Baltimore Orioles,78,84,0,.481,23,2004,AL
+Tampa Bay Devil Rays,70,91,0,.435,30½,2004,AL
+Toronto Blue Jays,67,94,0,.416,33½,2004,AL
+Minnesota Twins,92,70,0,.568,--,2004,AL
+Chicago White Sox,83,79,0,.512,9,2004,AL
+Cleveland Indians,80,82,0,.494,12,2004,AL
+Detroit Tigers,72,90,0,.444,20,2004,AL
+Kansas City Royals,58,104,0,.358,34,2004,AL
+Anaheim Angels,92,70,0,.568,--,2004,AL
+Oakland Athletics,91,71,0,.562,1,2004,AL
+Texas Rangers,89,73,0,.549,3,2004,AL
+Seattle Mariners,63,99,0,.389,29,2004,AL
+2004 American League Final Standings,,,,,,2004,AL
+Atlanta Braves,96,66,0,.593,--,2004,NL
+Philadelphia Phillies,86,76,0,.531,10,2004,NL
+Florida Marlins,83,79,0,.512,13,2004,NL
+New York Mets,71,91,0,.438,25,2004,NL
+Montreal Expos,67,95,0,.414,29,2004,NL
+St. Louis Cardinals,105,57,0,.648,--,2004,NL
+Houston Astros,92,70,0,.568,13,2004,NL
+Chicago Cubs,89,73,0,.549,16,2004,NL
+Cincinnati Reds,76,86,0,.469,29,2004,NL
+Pittsburgh Pirates,72,89,0,.447,32½,2004,NL
+Milwaukee Brewers,67,94,0,.416,37½,2004,NL
+Los Angeles Dodgers,93,69,0,.574,--,2004,NL
+San Francisco Giants,91,71,0,.562,2,2004,NL
+San Diego Padres,87,75,0,.537,6,2004,NL
+Colorado Rockies,68,94,0,.420,25,2004,NL
+Arizona Diamondbacks,51,111,0,.315,42,2004,NL
+National League Team Standings,,,,,,2004,NL
+New York Yankees,95,67,0,.586,--,2005,AL
+Boston Red Sox,95,67,0,.586,--,2005,AL
+Toronto Blue Jays,80,82,0,.494,15,2005,AL
+Baltimore Orioles,74,88,0,.457,21,2005,AL
+Tampa Bay Devil Rays,67,95,0,.414,28,2005,AL
+Chicago White Sox,99,63,0,.611,--,2005,AL
+Cleveland Indians,93,69,0,.574,6,2005,AL
+Minnesota Twins,83,79,0,.512,16,2005,AL
+Detroit Tigers,71,91,0,.438,28,2005,AL
+Kansas City Royals,56,106,0,.346,43,2005,AL
+Los Angeles Angels of Anaheim,95,67,0,.586,--,2005,AL
+Oakland Athletics,88,74,0,.543,7,2005,AL
+Texas Rangers,79,83,0,.488,16,2005,AL
+Seattle Mariners,69,93,0,.426,26,2005,AL
+2005 American League Final Standings,,,,,,2005,AL
+"Seasonal Events: All-Star Game | HR Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: N.L. Leaderboard | Retirements | Rookies List
+Average Salary: $2,632,655
+Minimum Salary: $316,000.00",,,,,,2005,AL
+Atlanta Braves,90,72,0,.556,--,2005,NL
+Philadelphia Phillies,88,74,0,.543,2,2005,NL
+Florida Marlins,83,79,0,.512,7,2005,NL
+New York Mets,83,79,0,.512,7,2005,NL
+Washington Nationals,81,81,0,.500,9,2005,NL
+St. Louis Cardinals,100,62,0,.617,--,2005,NL
+Houston Astros,89,73,0,.549,11,2005,NL
+Milwaukee Brewers,81,81,0,.500,19,2005,NL
+Chicago Cubs,79,83,0,.488,21,2005,NL
+Cincinnati Reds,73,89,0,.451,27,2005,NL
+Pittsburgh Pirates,67,95,0,.414,33,2005,NL
+San Diego Padres,82,80,0,.506,--,2005,NL
+Arizona Diamondbacks,77,85,0,.475,5,2005,NL
+San Francisco Giants,75,87,0,.463,7,2005,NL
+Los Angeles Dodgers,71,91,0,.438,11,2005,NL
+Colorado Rockies,67,95,0,.414,15,2005,NL
+"Seasonal Events: All-Star Game | Draft | HR Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Retirements | Rookies List
+Average Salary: $2,632,655.00
+Minimum Salary: $316,000.00",,,,,,2005,NL
+New York Yankees,97,65,0,.599,--,2006,AL
+Toronto Blue Jays,87,75,0,.537,10,2006,AL
+Boston Red Sox,86,76,0,.531,11,2006,AL
+Baltimore Orioles,70,92,0,.432,27,2006,AL
+Tampa Bay Devil Rays,61,101,0,.377,36,2006,AL
+Minnesota Twins,96,66,0,.593,--,2006,AL
+Detroit Tigers,95,67,0,.586,1,2006,AL
+Chicago White Sox,90,72,0,.556,6,2006,AL
+Cleveland Indians,78,84,0,.481,18,2006,AL
+Kansas City Royals,62,100,0,.383,34,2006,AL
+Oakland Athletics,93,69,0,.574,--,2006,AL
+Los Angeles Angels,89,73,0,.549,4,2006,AL
+Texas Rangers,80,82,0,.494,13,2006,AL
+Seattle Mariners,78,84,0,.481,15,2006,AL
+2006 American League Final Standings,,,,,,2006,AL
+New York Mets,97,65,0,.599,--,2006,NL
+Philadelphia Phillies,85,77,0,.525,12,2006,NL
+Atlanta Braves,79,83,0,.488,18,2006,NL
+Florida Marlins,78,84,0,.481,19,2006,NL
+Washington Nationals,71,91,0,.438,26,2006,NL
+St. Louis Cardinals,83,78,0,.516,--,2006,NL
+Houston Astros,82,80,0,.506,1½,2006,NL
+Cincinnati Reds,80,82,0,.494,3½,2006,NL
+Milwaukee Brewers,75,87,0,.463,8½,2006,NL
+Pittsburgh Pirates,67,95,0,.414,16½,2006,NL
+Chicago Cubs,66,96,0,.407,17½,2006,NL
+San Diego Padres,88,74,0,.543,--,2006,NL
+Los Angeles Dodgers,88,74,0,.543,--,2006,NL
+San Francisco Giants,76,85,0,.472,11½,2006,NL
+Arizona Diamondbacks,76,86,0,.469,12,2006,NL
+Colorado Rockies,76,86,0,.469,12,2006,NL
+2006 National League Final Standings,,,,,,2006,NL
+Boston Red Sox,96,66,0,.593,--,2007,AL
+New York Yankees,94,68,0,.580,2,2007,AL
+Toronto Blue Jays,83,79,0,.512,13,2007,AL
+Baltimore Orioles,69,93,0,.426,27,2007,AL
+Tampa Bay Devil Rays,66,96,0,.407,30,2007,AL
+Cleveland Indians,96,66,0,.593,--,2007,AL
+Detroit Tigers,88,74,0,.543,8,2007,AL
+Minnesota Twins,79,83,0,.488,17,2007,AL
+Chicago White Sox,72,90,0,.444,24,2007,AL
+Kansas City Royals,69,93,0,.426,27,2007,AL
+Los Angeles Angels,94,68,0,.580,--,2007,AL
+Seattle Mariners,88,74,0,.543,6,2007,AL
+Oakland Athletics,76,86,0,.469,18,2007,AL
+Texas Rangers,75,87,0,.463,19,2007,AL
+2007 American League Final Standings,,,,,,2007,AL
+Philadelphia Phillies,89,73,0,.549,--,2007,NL
+New York Mets,88,74,0,.543,1,2007,NL
+Atlanta Braves,84,78,0,.519,5,2007,NL
+Washington Nationals,73,89,0,.451,16,2007,NL
+Florida Marlins,71,91,0,.438,18,2007,NL
+Chicago Cubs,85,77,0,.525,--,2007,NL
+Milwaukee Brewers,83,79,0,.512,2,2007,NL
+St. Louis Cardinals,78,84,0,.481,7,2007,NL
+Houston Astros,73,89,0,.451,12,2007,NL
+Cincinnati Reds,72,90,0,.444,13,2007,NL
+Pittsburgh Pirates,68,94,0,.420,17,2007,NL
+Arizona Diamondbacks,90,72,0,.556,--,2007,NL
+Colorado Rockies,90,73,0,.552,½,2007,NL
+San Diego Padres,89,74,0,.546,1½,2007,NL
+Los Angeles Dodgers,82,80,0,.506,8,2007,NL
+San Francisco Giants,71,91,0,.438,19,2007,NL
+2007 National League Final Standings,,,,,,2007,NL
+Tampa Bay Rays,97,65,0,.599,--,2008,AL
+Boston Red Sox,95,67,0,.586,2,2008,AL
+New York Yankees,89,73,0,.549,8,2008,AL
+Toronto Blue Jays,86,76,0,.531,11,2008,AL
+Baltimore Orioles,68,93,0,.422,28½,2008,AL
+Chicago White Sox,89,74,0,.546,--,2008,AL
+Minnesota Twins,88,75,0,.540,1,2008,AL
+Cleveland Indians,81,81,0,.500,7½,2008,AL
+Kansas City Royals,75,87,0,.463,13½,2008,AL
+Detroit Tigers,74,88,0,.457,14½,2008,AL
+Los Angeles Angels,100,62,0,.617,--,2008,AL
+Texas Rangers,79,83,0,.488,21,2008,AL
+Oakland Athletics,75,86,0,.466,24½,2008,AL
+Seattle Mariners,61,101,0,.377,39,2008,AL
+2008 National League Final Standings,,,,,,2008,AL
+Philadelphia Phillies,92,70,0,.568,--,2008,NL
+New York Mets,89,73,0,.549,3,2008,NL
+Florida Marlins,84,77,0,.522,7½,2008,NL
+Atlanta Braves,72,90,0,.444,20,2008,NL
+Washington Nationals,59,102,0,.366,32½,2008,NL
+Chicago Cubs,97,64,0,.602,--,2008,NL
+Milwaukee Brewers,90,72,0,.556,7½,2008,NL
+Houston Astros,86,75,0,.534,11,2008,NL
+St. Louis Cardinals,86,76,0,.531,11½,2008,NL
+Cincinnati Reds,74,88,0,.457,23½,2008,NL
+Pittsburgh Pirates,67,95,0,.414,30½,2008,NL
+Los Angeles Dodgers,84,78,0,.519,--,2008,NL
+Arizona Diamondbacks,82,80,0,.506,2,2008,NL
+Colorado Rockies,74,88,0,.457,10,2008,NL
+San Francisco Giants,72,90,0,.444,12,2008,NL
+San Diego Padres,63,99,0,.389,21,2008,NL
+2008 National League Final Standings,,,,,,2008,NL
+New York Yankees,103,59,0,.636,--,2009,AL
+Boston Red Sox,95,67,0,.586,8,2009,AL
+Tampa Bay Rays,84,78,0,.519,19,2009,AL
+Toronto Blue Jays,75,87,0,.463,28,2009,AL
+Baltimore Orioles,64,98,0,.395,39,2009,AL
+Minnesota Twins,87,76,0,.534,--,2009,AL
+Detroit Tigers,86,77,0,.528,1,2009,AL
+Chicago White Sox,79,83,0,.488,7½,2009,AL
+Cleveland Indians,65,97,0,.401,21½,2009,AL
+Kansas City Royals,65,97,0,.401,21½,2009,AL
+Los Angeles Angels,97,65,0,.599,--,2009,AL
+Texas Rangers,87,75,0,.537,10,2009,AL
+Seattle Mariners,85,77,0,.525,12,2009,AL
+Oakland Athletics,75,87,0,.463,22,2009,AL
+2009 American League Final Standings,,,,,,2009,AL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: N.L. Leaderboard | Rookies List
+Average Salary: $3,240,206.81
+Minimum Salary: $390,000.00",,,,,,2009,AL
+Philadelphia Phillies,93,69,0,.574,--,2009,NL
+Florida Marlins,87,75,0,.537,6,2009,NL
+Atlanta Braves,86,76,0,.531,7,2009,NL
+New York Mets,70,92,0,.432,23,2009,NL
+Washington Nationals,59,103,0,.364,34,2009,NL
+St. Louis Cardinals,91,71,0,.562,--,2009,NL
+Chicago Cubs,83,78,0,.516,7½,2009,NL
+Milwaukee Brewers,80,82,0,.494,11,2009,NL
+Cincinnati Reds,78,84,0,.481,13,2009,NL
+Houston Astros,74,88,0,.457,17,2009,NL
+Pittsburgh Pirates,62,99,0,.385,28½,2009,NL
+Los Angeles Dodgers,95,67,0,.586,--,2009,NL
+Colorado Rockies,92,70,0,.568,3,2009,NL
+San Francisco Giants,88,74,0,.543,7,2009,NL
+San Diego Padres,75,87,0,.463,20,2009,NL
+Arizona Diamondbacks,70,92,0,.432,25,2009,NL
+2009 National League Final Standings,,,,,,2009,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List
+Average Salary: $3,240,206.81
+Minimum Salary: $390,000.00",,,,,,2009,NL
+Tampa Bay Rays,96,66,0,.593,--,2010,AL
+New York Yankees,95,67,0,.586,1,2010,AL
+Boston Red Sox,89,73,0,.549,7,2010,AL
+Toronto Blue Jays,85,77,0,.525,11,2010,AL
+Baltimore Orioles,66,96,0,.407,30,2010,AL
+Minnesota Twins,94,68,0,.580,--,2010,AL
+Chicago White Sox,88,74,0,.543,6,2010,AL
+Detroit Tigers,81,81,0,.500,13,2010,AL
+Cleveland Indians,69,93,0,.426,25,2010,AL
+Kansas City Royals,67,95,0,.414,27,2010,AL
+Texas Rangers,90,72,0,.556,--,2010,AL
+Oakland Athletics,81,81,0,.500,9,2010,AL
+Los Angeles Angels,80,82,0,.494,10,2010,AL
+Seattle Mariners,61,101,0,.377,29,2010,AL
+2010 American League Final Standings,,,,,,2010,AL
+Philadelphia Phillies,97,65,0,.599,--,2010,NL
+Atlanta Braves,91,71,0,.562,6,2010,NL
+Florida Marlins,80,82,0,.494,17,2010,NL
+New York Mets,79,83,0,.488,18,2010,NL
+Washington Nationals,69,93,0,.426,28,2010,NL
+Cincinnati Reds,91,71,0,.562,--,2010,NL
+St. Louis Cardinals,86,76,0,.531,5,2010,NL
+Milwaukee Brewers,77,85,0,.475,14,2010,NL
+Houston Astros,76,86,0,.469,15,2010,NL
+Chicago Cubs,75,87,0,.463,16,2010,NL
+Pittsburgh Pirates,57,105,0,.352,34,2010,NL
+San Francisco Giants,92,70,0,.568,--,2010,NL
+San Diego Padres,90,72,0,.556,2,2010,NL
+Colorado Rockies,83,79,0,.512,9,2010,NL
+Los Angeles Dodgers,80,82,0,.494,12,2010,NL
+Arizona Diamondbacks,65,97,0,.401,27,2010,NL
+2010 National League Final Standings,,,,,,2010,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List
+Average Salary: $3,297,828.37
+Minimum Salary: $400,000.00",,,,,,2010,NL
+New York Yankees,97,65,0,.599,--,2011,AL
+Tampa Bay Rays,91,71,0,.562,6,2011,AL
+Boston Red Sox,90,72,0,.556,7,2011,AL
+Toronto Blue Jays,81,81,0,.500,16,2011,AL
+Baltimore Orioles,69,93,0,.426,28,2011,AL
+Detroit Tigers,95,67,0,.586,--,2011,AL
+Cleveland Indians,80,82,0,.494,15,2011,AL
+Chicago White Sox,79,83,0,.488,16,2011,AL
+Kansas City Royals,71,91,0,.438,24,2011,AL
+Minnesota Twins,63,99,0,.389,32,2011,AL
+Texas Rangers,96,66,0,.593,--,2011,AL
+Los Angeles Angels,86,76,0,.531,10,2011,AL
+Oakland Athletics,74,88,0,.457,22,2011,AL
+Seattle Mariners,67,95,0,.414,29,2011,AL
+2011 American League Final Standings,,,,,,2011,AL
+Philadelphia Phillies,102,60,0,.630,--,2011,NL
+Atlanta Braves,89,73,0,.549,13,2011,NL
+Washington Nationals,80,81,0,.497,21½,2011,NL
+New York Mets,77,85,0,.475,25,2011,NL
+Florida Marlins,72,90,0,.444,30,2011,NL
+Milwaukee Brewers,96,66,0,.593,--,2011,NL
+St. Louis Cardinals,90,72,0,.556,6,2011,NL
+Cincinnati Reds,79,83,0,.488,17,2011,NL
+Pittsburgh Pirates,72,90,0,.444,24,2011,NL
+Chicago Cubs,71,91,0,.438,25,2011,NL
+Houston Astros,56,106,0,.346,40,2011,NL
+Arizona Diamondbacks,94,68,0,.580,--,2011,NL
+San Francisco Giants,86,76,0,.531,8,2011,NL
+Los Angeles Dodgers,82,79,0,.509,11½,2011,NL
+Colorado Rockies,73,89,0,.451,21,2011,NL
+San Diego Padres,71,91,0,.438,23,2011,NL
+2011 National League Final Standings,,,,,,2011,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List",,,,,,2011,NL
+New York Yankees,95,67,0,.586,--,2012,AL
+Baltimore Orioles,93,69,0,.574,2,2012,AL
+Tampa Bay Rays,90,72,0,.556,5,2012,AL
+Toronto Blue Jays,73,89,0,.451,22,2012,AL
+Boston Red Sox,69,93,0,.426,26,2012,AL
+Detroit Tigers,88,74,0,.543,--,2012,AL
+Chicago White Sox,85,77,0,.525,3,2012,AL
+Kansas City Royals,72,90,0,.444,16,2012,AL
+Cleveland Indians,68,94,0,.420,20,2012,AL
+Minnesota Twins,66,96,0,.407,22,2012,AL
+Oakland Athletics,94,68,0,.580,--,2012,AL
+Texas Rangers,93,69,0,.574,1,2012,AL
+Los Angeles Angels,89,73,0,.549,5,2012,AL
+Seattle Mariners,75,87,0,.463,19,2012,AL
+2012 American League Final Standings,,,,,,2012,AL
+Washington Nationals,98,64,0,.605,--,2012,NL
+Atlanta Braves,94,68,0,.580,4,2012,NL
+Philadelphia Phillies,81,81,0,.500,17,2012,NL
+New York Mets,74,88,0,.457,24,2012,NL
+Miami Marlins,69,93,0,.426,29,2012,NL
+Cincinnati Reds,97,65,0,.599,--,2012,NL
+St. Louis Cardinals,88,74,0,.543,9,2012,NL
+Milwaukee Brewers,83,79,0,.512,14,2012,NL
+Pittsburgh Pirates,79,83,0,.488,18,2012,NL
+Chicago Cubs,61,101,0,.377,36,2012,NL
+Houston Astros,55,107,0,.340,42,2012,NL
+San Francisco Giants,94,68,0,.580,--,2012,NL
+Los Angeles Dodgers,86,76,0,.531,8,2012,NL
+Arizona Diamondbacks,81,81,0,.500,13,2012,NL
+San Diego Padres,76,86,0,.469,18,2012,NL
+Colorado Rockies,64,98,0,.395,30,2012,NL
+2012 National League Final Standings,,,,,,2012,NL
+Boston Red Sox,97,65,0,.599,--,2013,AL
+Tampa Bay Rays,92,71,0,.564,5½,2013,AL
+Baltimore Orioles,85,77,0,.525,12,2013,AL
+New York Yankees,85,77,0,.525,12,2013,AL
+Toronto Blue Jays,74,88,0,.457,23,2013,AL
+Detroit Tigers,93,69,0,.574,--,2013,AL
+Cleveland Indians,92,70,0,.568,1,2013,AL
+Kansas City Royals,86,76,0,.531,7,2013,AL
+Minnesota Twins,66,96,0,.407,27,2013,AL
+Chicago White Sox,63,99,0,.389,30,2013,AL
+Oakland Athletics,96,66,0,.593,--,2013,AL
+Texas Rangers,91,72,0,.558,5½,2013,AL
+Los Angeles Angels,78,84,0,.481,18,2013,AL
+Seattle Mariners,71,91,0,.438,25,2013,AL
+Houston Astros,51,111,0,.315,45,2013,AL
+2013 American League Final Standings,,,,,,2013,AL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: N.L. Leaderboard | Rookies List",,,,,,2013,AL
+Atlanta Braves,96,66,0,.593,--,2013,NL
+Washington Nationals,86,76,0,.531,10,2013,NL
+New York Mets,74,88,0,.457,22,2013,NL
+Philadelphia Phillies,73,89,0,.451,23,2013,NL
+Miami Marlins,62,100,0,.383,34,2013,NL
+St. Louis Cardinals,97,65,0,.599,--,2013,NL
+Pittsburgh Pirates,94,68,0,.580,3,2013,NL
+Cincinnati Reds,90,72,0,.556,7,2013,NL
+Milwaukee Brewers,74,88,0,.457,23,2013,NL
+Chicago Cubs,66,96,0,",407",31,2013,NL
+Los Angeles Dodgers,92,70,0,.568,--,2013,NL
+Arizona Diamondbacks,81,81,0,.500,11,2013,NL
+San Diego Padres,76,86,0,.469,16,2013,NL
+San Francisco Giants,76,86,0,.469,16,2013,NL
+Colorado Rockies,74,88,0,.457,18,2013,NL
+2013 National League Final Standings,,,,,,2013,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List",,,,,,2013,NL
+Baltimore Orioles,96,66,0,.593,--,2014,AL
+New York Yankees,84,78,0,.518,12,2014,AL
+Toronto Blue Jays,83,79,0,.512,13,2014,AL
+Tampa Bay Rays,77,85,0,.475,19,2014,AL
+Boston Red Sox,71,91,0,.438,25,2014,AL
+Detroit Tigers,90,72,0,.556,--,2014,AL
+Kansas City Royals,89,73,0,.549,1,2014,AL
+Cleveland Indians,85,77,0,.525,5,2014,AL
+Chicago White Sox,73,89,0,.451,17,2014,AL
+Minnesota Twins,70,92,0,.432,20,2014,AL
+Los Angeles Angels,98,64,0,.605,--,2014,AL
+Oakland Athletics,88,74,0,.543,10,2014,AL
+Seattle Mariners,87,75,0,.537,11,2014,AL
+Houston Astros,70,92,0,.432,28,2014,AL
+Texas Rangers,67,95,0,.414,31,2014,AL
+2014 American League Final Standings,,,,,,2014,AL
+Washington Nationals,96,66,0,.593,--,2014,NL
+Atlanta Braves,79,83,0,.488,17,2014,NL
+New York Mets,79,83,0,.488,17,2014,NL
+Miami Marlins,77,85,0,.475,19,2014,NL
+Philadelphia Phillies,73,89,0,.451,23,2014,NL
+St. Louis Cardinals,90,72,0,.556,--,2014,NL
+Pittsburgh Pirates,88,74,0,.543,2,2014,NL
+Milwaukee Brewers,82,80,0,.506,8,2014,NL
+Cincinnati Reds,76,86,0,.469,14,2014,NL
+Chicago Cubs,73,89,0,.451,17,2014,NL
+Los Angeles Dodgers,94,68,0,.580,--,2014,NL
+San Francisco Giants,88,74,0,.543,6,2014,NL
+San Diego Padres,77,85,0,.475,17,2014,NL
+Colorado Rockies,66,96,0,.407,28,2014,NL
+Arizona Diamondbacks,64,98,0,.395,30,2014,NL
+2014 National League Final Standings,,,,,,2014,NL
+Toronto Blue Jays,93,69,0,.574,--,2015,AL
+New York Yankees,87,75,0,.537,6,2015,AL
+Baltimore Orioles,81,81,0,.500,12,2015,AL
+Tampa Bay Rays,80,82,0,.494,13,2015,AL
+Boston Red Sox,78,84,0,.481,15,2015,AL
+Kansas City Royals,95,67,0,.586,--,2015,AL
+Minnesota Twins,83,79,0,.512,12,2015,AL
+Cleveland Indians,81,80,0,.503,13½,2015,AL
+Chicago White Sox,76,86,0,.469,19,2015,AL
+Detroit Tigers,74,87,0,.460,20½,2015,AL
+Texas Rangers,88,74,0,.543,--,2015,AL
+Houston Astros,86,76,0,.531,2,2015,AL
+Los Angeles Angels,85,77,0,.525,3,2015,AL
+Seattle Mariners,76,86,0,.469,12,2015,AL
+Oakland Athletics,68,94,0,.420,20,2015,AL
+2015 American League Final Standings,,,,,,2015,AL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: N.L. Leaderboard | Rookies List",,,,,,2015,AL
+New York Mets,90,72,0,.556,--,2015,NL
+Washington Nationals,83,79,0,.512,7,2015,NL
+Miami Marlins,71,91,0,.438,19,2015,NL
+Atlanta Braves,67,95,0,.414,23,2015,NL
+Philadelphia Phillies,63,99,0,.389,27,2015,NL
+St. Louis Cardinals,100,62,0,.617,--,2015,NL
+Pittsburgh Pirates,98,64,0,.605,0,2015,NL
+Chicago Cubs,97,65,0,.599,3,2015,NL
+Milwaukee Brewers,68,94,0,.420,32,2015,NL
+Cincinnati Reds,64,98,0,.395,36,2015,NL
+Los Angeles Dodgers,92,70,0,.568,--,2015,NL
+San Francisco Giants,84,78,0,.519,8,2015,NL
+Arizona Diamondbacks,79,83,0,.488,13,2015,NL
+San Diego Padres,74,88,0,.457,18,2015,NL
+Colorado Rockies,68,94,0,.420,24,2015,NL
+2015 National League Final Standings,,,,,,2015,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List",,,,,,2015,NL
+Boston Red Sox,93,69,0,.574,--,2016,AL
+Baltimore Orioles,89,73,0,.549,4,2016,AL
+Toronto Blue Jays,89,73,0,.549,4,2016,AL
+New York Yankees,84,78,0,.519,9,2016,AL
+Tampa Bay Rays,68,94,0,.420,25,2016,AL
+Cleveland Indians,94,67,0,.584,--,2016,AL
+Detroit Tigers,86,75,0,.534,8,2016,AL
+Kansas City Royals,81,81,0,.500,13.5,2016,AL
+Chicago White Sox,78,84,0,.481,16.5,2016,AL
+Minnesota Twins,59,103,0,.364,35.5,2016,AL
+Texas Rangers,95,67,0,.586,--,2016,AL
+Seattle Mariners,86,76,0,.531,9,2016,AL
+Houston Astros,84,78,0,.519,11,2016,AL
+Los Angeles Angels,74,88,0,.457,21,2016,AL
+Oakland Athletics,69,93,0,.426,26,2016,AL
+2016 American League Final Standings,,,,,,2016,AL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: N.L. Leaderboard | Rookies List",,,,,,2016,AL
+Washington Nationals,95,67,0,.586,--,2016,NL
+New York Mets,87,75,0,.537,8,2016,NL
+Miami Marlins,79,82,0,.491,15.5,2016,NL
+Philadelphia Phillies,71,91,0,.438,24,2016,NL
+Atlanta Braves,68,93,0,.422,26.5,2016,NL
+Chicago Cubs,103,58,0,.640,--,2016,NL
+St. Louis Cardinals,86,76,0,.531,17.5,2016,NL
+Pittsburgh Pirates,78,83,0,.484,25,2016,NL
+Milwaukee Brewers,73,89,0,.451,30.5,2016,NL
+Cincinnati Reds,68,94,0,.420,35.5,2016,NL
+Los Angeles Dodgers,91,71,0,.562,--,2016,NL
+San Francisco Giants,87,75,0,.537,4,2016,NL
+Colorado Rockies,75,87,0,.463,16,2016,NL
+Arizona Diamondbacks,69,93,0,.426,22,2016,NL
+San Diego Padres,68,94,0,.420,23,2016,NL
+2016 National League Final Standings,,,,,,2016,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List",,,,,,2016,NL
+Boston Red Sox,93,69,0,.574,--,2017,AL
+New York Yankees,91,71,0,.562,2.0,2017,AL
+Tampa Bay Rays,80,82,0,.494,13.0,2017,AL
+Toronto Blue Jays,76,86,0,.469,17.0,2017,AL
+Baltimore Orioles,75,87,0,.463,18.0,2017,AL
+Cleveland Indians,102,60,0,.630,--,2017,AL
+Minnesota Twins,85,77,0,.525,17.0,2017,AL
+Kansas City Royals,80,82,0,.494,22.0,2017,AL
+Chicago White Sox,67,95,0,.414,35.0,2017,AL
+Detroit Tigers,64,98,0,.395,38.0,2017,AL
+Houston Astros,101,61,0,.623,--,2017,AL
+Los Angeles Angels,80,82,0,.494,21.0,2017,AL
+Seattle Mariners,78,84,0,.481,23.0,2017,AL
+Texas Rangers,78,84,0,.481,23.0,2017,AL
+Oakland Athletics,75,87,0,.463,26.0,2017,AL
+2017 American League Final Standings,,,,,,2017,AL
+Washington Nationals,97,65,0,.599,--,2017,NL
+Miami Marlins,77,85,0,.475,20.0,2017,NL
+Atlanta Braves,72,90,0,.444,24.0,2017,NL
+New York Mets,70,92,0,.432,27.0,2017,NL
+Philadelphia Phillies,66,96,0,.407,31.0,2017,NL
+Chicago Cubs,92,70,0,.568,--,2017,NL
+Milwaukee Brewers,86,76,0,.531,6.0,2017,NL
+St. Louis Cardinals,83,79,0,.512,9.0,2017,NL
+Pittsburgh Pirates,75,87,0,.463,17.0,2017,NL
+Cincinnati Reds,68,94,0,.420,24.0,2017,NL
+Los Angeles Dodgers,104,58,0,.642,--,2017,NL
+Arizona Diamondbacks,93,69,0,.574,11.0,2017,NL
+Colorado Rockies,87,75,0,.537,17.0,2017,NL
+San Diego Padres,71,91,0,.438,33.0,2017,NL
+San Francisco Giants,64,98,0,.395,40.0,2017,NL
+2017 National League Final Standings,,,,,,2017,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List",,,,,,2017,NL
+Boston Red Sox,108,54,0,.667,--,2018,AL
+New York Yankees,100,62,0,.617,8.0,2018,AL
+Tampa Bay Rays,90,72,0,.556,18.0,2018,AL
+Toronto Blue Jays,73,89,0,.451,35.0,2018,AL
+Baltimore Orioles,47,115,0,.290,61.0,2018,AL
+Cleveland Indians,91,71,0,.562,--,2018,AL
+Minnesota Twins,78,84,0,.481,13.0,2018,AL
+Detroit Tigers,64,98,0,.395,27.0,2018,AL
+Chicago White Sox,62,100,0,.383,29.0,2018,AL
+Kansas City Royals,58,104,0,.358,33.0,2018,AL
+Houston Astros,103,59,0,.636,--,2018,AL
+Oakland Athletics,97,65,0,.599,6.0,2018,AL
+Seattle Mariners,89,73,0,.549,14.0,2018,AL
+Los Angeles Angels,80,82,0,.494,23.0,2018,AL
+Texas Rangers,67,95,0,.414,36.0,2018,AL
+2018 American League Final Standings,,,,,,2018,AL
+Atlanta Braves,90,72,0,.556,--,2018,NL
+Washington Nationals,82,80,0,.506,8.0,2018,NL
+Philadelphia Phillies,80,82,0,.494,10.0,2018,NL
+New York Mets,77,85,0,.475,13.0,2018,NL
+Miami Marlins,63,98,0,.391,26.5,2018,NL
+Milwaukee Brewers,96,67,0,.589,--,2018,NL
+Chicago Cubs,95,68,0,.583,1.0,2018,NL
+St. Louis Cardinals,88,74,0,.543,7.5,2018,NL
+Pittsburgh Pirates,82,79,0,.509,13.0,2018,NL
+Cincinnati Reds,67,95,0,.414,28.5,2018,NL
+Los Angeles Dodgers,92,71,0,.564,--,2018,NL
+Colorado Rockies,91,72,0,.558,1.0,2018,NL
+Arizona Diamondbacks,82,80,0,.506,9.5,2018,NL
+San Francisco Giants,73,89,0,.451,18.5,2018,NL
+San Diego Padres,66,96,0,.407,24.5,2018,NL
+2018 National Standings,,,,,,2018,NL
+New York Yankees,103,59,0,.636,--,2019,AL
+Tampa Bay Rays,96,66,0,.593,7.0,2019,AL
+Boston Red Sox,84,78,0,.519,19.0,2019,AL
+Toronto Blue Jays,67,95,0,.414,36.0,2019,AL
+Baltimore Orioles,54,108,0,.333,49.0,2019,AL
+Minnesota Twins,101,61,0,.623,--,2019,AL
+Cleveland Indians,93,69,0,.574,8.0,2019,AL
+Chicago White Sox,72,89,0,.447,28.5,2019,AL
+Kansas City Royals,59,103,0,.364,42.0,2019,AL
+Detroit Tigers,47,114,0,.292,53.5,2019,AL
+Houston Astros,107,55,0,.660,--,2019,AL
+Oakland Athletics,97,65,0,.599,10.0,2019,AL
+Texas Rangers,78,84,0,.481,29.0,2019,AL
+Los Angeles Angels,72,90,0,.444,35.0,2019,AL
+Seattle Mariners,68,94,0,.420,39.0,2019,AL
+2019 American League Standings,,,,,,2019,AL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: N.L. Leaderboard | Rookies List",,,,,,2019,AL
+Atlanta Braves,97,65,0,.599,--,2019,NL
+Washington Nationals,93,69,0,.574,4.0,2019,NL
+New York Mets,86,76,0,.531,11.0,2019,NL
+Philadelphia Phillies,81,81,0,.500,16.0,2019,NL
+Miami Marlins,57,105,0,.352,40.0,2019,NL
+St. Louis Cardinals,91,71,0,.562,--,2019,NL
+Milwaukee Brewers,89,73,0,.549,2.0,2019,NL
+Chicago Cubs,84,78,0,.519,7.0,2019,NL
+Cincinnati Reds,75,87,0,.463,16.0,2019,NL
+Pittsburgh Pirates,69,93,0,.426,22.0,2019,NL
+Los Angeles Dodgers,106,56,0,.654,--,2019,NL
+Arizona Diamondbacks,85,77,0,.525,21.0,2019,NL
+San Francisco Giants,77,85,0,.475,29.0,2019,NL
+Colorado Rockies,71,91,0,.438,35.0,2019,NL
+San Diego Padres,70,92,0,.432,36.0,2019,NL
+2019 National League Standings,,,,,,2019,NL
+"Seasonal Events: All-Star Game | Home Run Derby | World Series
+Navigation: Year in Review Menu | Previous Season | Next Season
+Miscellaneous: A.L. Leaderboard | Rookies List",,,,,,2019,NL
+Tampa Bay Rays,40,20,0,.667,--,2020,AL
+New York Yankees,33,27,0,.550,7.0,2020,AL
+Toronto Blue Jays,32,28,0,.533,8.0,2020,AL
+Baltimore Orioles,25,35,0,.417,15.0,2020,AL
+Boston Red Sox,24,36,0,.400,16.0,2020,AL
+Minnesota Twins,36,24,0,.600,--,2020,AL
+Chicago White Sox,35,25,0,.583,1.0,2020,AL
+Cleveland Indians,35,25,0,.583,1.0,2020,AL
+Kansas City Royals,26,34,0,.433,10.0,2020,AL
+Detroit Tigers,23,35,0,.397,12.0,2020,AL
+Oakland Athletics,36,24,0,.600,--,2020,AL
+Houston Astros,29,31,0,.483,7.0,2020,AL
+Seattle Mariners,27,33,0,.450,9.0,2020,AL
+Los Angeles Angels,26,34,0,.433,10.0,2020,AL
+Texas Rangers,22,38,0,.367,14.0,2020,AL
+2020 American League Standings,,,,,,2020,AL
+Atlanta Braves,35,25,0,.583,--,2020,NL
+Miami Marlins,31,29,0,.517,4.0,2020,NL
+Philadelphia Phillies,28,32,0,.467,7.0,2020,NL
+New York Mets,26,34,0,.433,9.0,2020,NL
+Washington Nationals,26,34,0,.433,9.0,2020,NL
+Chicago Cubs,34,26,0,.567,--,2020,NL
+Cincinnati Reds,31,29,0,.517,3.0,2020,NL
+St. Louis Cardinals,30,28,0,.517,3.0,2020,NL
+Milwaukee Brewers,29,31,0,.483,5.0,2020,NL
+Pittsburgh Pirates,19,41,0,.317,15.0,2020,NL
+Los Angeles Dodgers,43,17,0,.717,--,2020,NL
+San Diego Padres,37,23,0,.617,6.0,2020,NL
+San Francisco Giants,29,31,0,.483,14.0,2020,NL
+Colorado Rockies,26,34,0,.433,17.0,2020,NL
+Arizona Diamondbacks,25,35,0,.417,18.0,2020,NL
+2020 National League Standings,,,,,,2020,NL
+Tampa Bay Rays,100,62,0,.617,--,2021,AL
+Boston Red Sox,92,70,0,.568,8.0,2021,AL
+New York Yankees,92,70,0,.568,8.0,2021,AL
+Toronto Blue Jays,91,71,0,.562,9.0,2021,AL
+Baltimore Orioles,52,110,0,.321,48.0,2021,AL
+Chicago White Sox,93,69,0,.586,--,2021,AL
+Cleveland Indians,80,82,0,.494,13.0,2021,AL
+Detroit Tigers,77,85,0,.475,16.0,2021,AL
+Kansas City Royals,74,88,0,.457,19.0,2021,AL
+Minnesota Twins,73,89,0,.451,20.0,2021,AL
+Houston Astros,95,67,0,.586,--,2021,AL
+Seattle Mariners,90,72,0,.556,5.0,2021,AL
+Oakland Athletics,86,76,0,.531,9.0,2021,AL
+Los Angeles Angels,77,85,0,.754,18.0,2021,AL
+Texas Rangers,60,102,0,.370,35.0,2021,AL
+2021 American League Standings,,,,,,2021,AL
+Atlanta Braves,88,73,0,.547,--,2021,NL
+Philadelphia Phillies,82,80,0,.506,6.5,2021,NL
+New York Mets,77,85,0,.475,11.5,2021,NL
+Miami Marlins,67,95,0,.414,21.5,2021,NL
+Washington Nationals,65,97,0,.401,23.5,2021,NL
+Milwaukee Brewers,95,67,0,.586,--,2021,NL
+St. Louis Cardinals,90,72,0,.556,5.0,2021,NL
+Cincinnati Reds,83,79,0,.512,12.0,2021,NL
+Chicago Cubs,71,91,0,.438,24.0,2021,NL
+Pittsburgh Pirates,61,101,0,.377,34.0,2021,NL
+San Francisco Giants,107,55,0,.660,--,2021,NL
+Los Angeles Dodgers,106,56,0,.654,1.0,2021,NL
+San Diego Padres,79,83,0,.488,28.0,2021,NL
+Colorado Rockies,74,87,0,.460,32.5,2021,NL
+Arizona Diamondbacks,52,110,0,.321,55.0,2021,NL
+2021 National League Standings,,,,,,2021,NL
+New York Yankees,99,63,0,.611,-,2022,AL
+Toronto Blue Jays,92,70,0,.568,7.0,2022,AL
+Tampa Bay Rays,86,76,0,.531,13.0,2022,AL
+Baltimore Orioles,83,79,0,.512,16.0,2022,AL
+Boston Red Sox,78,84,0,.481,21.0,2022,AL
+Cleveland Guardians,92,70,0,.568,-,2022,AL
+Chicago White Sox,81,81,0,.500,11.0,2022,AL
+Minnesota Twins,78,84,0,.481,14.0,2022,AL
+Detroit Tigers,66,96,0,.407,26.0,2022,AL
+Kansas City Royals,65,97,0,.401,27.0,2022,AL
+Houston Astros,106,56,0,.654,-,2022,AL
+Seattle Mariners,90,72,0,.556,16.0,2022,AL
+Los Angeles Angels,73,89,0,.451,33.0,2022,AL
+Texas Rangers,68,94,0,.420,38.0,2022,AL
+Oakland Athletics,60,102,0,.370,46.0,2022,AL
+2022 American League Standings,,,,,,2022,AL
+Atlanta Braves,101,61,0,.623,-,2022,NL
+New York Mets,101,61,0,.623,-,2022,NL
+Philadelphia Phillies,87,75,0,.537,14.0,2022,NL
+Miami Marlins,69,93,0,.426,32.0,2022,NL
+Washington Nationals,55,107,0,.340,46.0,2022,NL
+St. Louis Cardinals,93,69,0,.574,-,2022,NL
+Milwaukee Brewers,86,76,0,.531,7.0,2022,NL
+Chicago Cubs,74,88,0,.457,19.0,2022,NL
+Cincinnati Reds,62,100,0,.383,31.0,2022,NL
+Pittsburgh Pirates,62,100,0,.383,31.0,2022,NL
+Los Angeles Dodgers,111,51,0,.685,-,2022,NL
+San Diego Padres,89,73,0,.549,22.0,2022,NL
+San Francisco Giants,81,81,0,.500,30.0,2022,NL
+Arizona Diamondbacks,74,88,0,.457,37.0,2022,NL
+Colorado Rockies,68,94,0,.420,43.0,2022,NL
+2022 National League Standings,,,,,,2022,NL
 Baltimore Orioles,101,61,0,.623,-,2023,AL
 Tampa Bay Rays,99,63,0,.611,2.0,2023,AL
 Toronto Blue Jays,89,73,0,.549,12.0,2023,AL
@@ -63,35 +854,35 @@ Arizona Diamondbacks,89,73,0,.549,9.0,2024,NL
 San Francisco Giants,80,82,0,.494,18.0,2024,NL
 Colorado Rockies,61,101,0,.377,37.0,2024,NL
 2024 National League Standings,,,,,,2024,NL
-New York Yankees,44,32,0,.579,-,2025,AL
-Tampa Bay Rays,43,34,0,.558,1.5,2025,AL
-Toronto Blue Jays,41,35,0,.539,3.0,2025,AL
-Boston Red Sox,40,38,0,.513,5.0,2025,AL
-Baltimore Orioles,33,43,0,.434,11.0,2025,AL
-Detroit Tigers,48,30,0,.615,-,2025,AL
-Cleveland Guardians,38,37,0,.507,8.5,2025,AL
-Kansas City Royals,38,39,0,.494,9.5,2025,AL
-Minnesota Twins,37,39,0,.487,10.0,2025,AL
-Chicago White Sox,24,53,0,.312,23.5,2025,AL
-Houston Astros,44,33,0,.571,-,2025,AL
-Seattle Mariners,38,37,0,.507,5.0,2025,AL
-Texas Rangers,38,39,0,.494,6.0,2025,AL
-Los Angeles Angels,37,39,0,.487,6.5,2025,AL
-Athletics,32,47,0,.405,13.0,2025,AL
+New York Yankees,45,33,0,.577,-,2025,AL
+Tampa Bay Rays,43,35,0,.551,2.0,2025,AL
+Toronto Blue Jays,41,36,0,.532,3.5,2025,AL
+Boston Red Sox,40,40,0,.500,6.0,2025,AL
+Baltimore Orioles,34,44,0,.436,11.0,2025,AL
+Detroit Tigers,49,30,0,.620,-,2025,AL
+Cleveland Guardians,39,37,0,.513,8.5,2025,AL
+Kansas City Royals,38,40,0,.487,10.5,2025,AL
+Minnesota Twins,37,41,0,.474,11.5,2025,AL
+Chicago White Sox,25,54,0,.316,24.0,2025,AL
+Houston Astros,45,33,0,.577,-,2025,AL
+Seattle Mariners,40,37,0,.519,4.5,2025,AL
+Los Angeles Angels,38,40,0,.487,7.0,2025,AL
+Texas Rangers,38,41,0,.481,7.5,2025,AL
+Athletics,32,48,0,.400,14.0,2025,AL
 2025 American League Standings,,,,,,2025,AL
-New York Mets,46,31,0,.597,-,2025,NL
-Philadelphia Phillies,46,31,0,.597,-,2025,NL
-Atlanta Braves,35,40,0,.467,10.0,2025,NL
-Washington Nationals,32,45,0,.416,14.0,2025,NL
-Miami Marlins,30,45,0,.400,15.0,2025,NL
-Chicago Cubs,46,30,0,.605,-,2025,NL
-Milwaukee Brewers,42,35,0,.545,4.5,2025,NL
-St. Louis Cardinals,42,35,0,.545,4.5,2025,NL
-Cincinnati Reds,39,38,0,.506,7.5,2025,NL
-Pittsburgh Pirates,30,48,0,.385,17.0,2025,NL
-Los Angeles Dodgers,47,31,0,.603,-,2025,NL
-San Francisco Giants,43,34,0,.558,3.5,2025,NL
-San Diego Padres,41,35,0,.539,5.0,2025,NL
-Arizona Diamondbacks,39,37,0,.513,7.0,2025,NL
-Colorado Rockies,17,60,0,.221,29.5,2025,NL
+Philadelphia Phillies,47,31,0,.603,-,2025,NL
+New York Mets,46,33,0,.582,1.5,2025,NL
+Atlanta Braves,36,41,0,.468,10.5,2025,NL
+Washington Nationals,33,46,0,.418,14.5,2025,NL
+Miami Marlins,31,45,0,.408,15.0,2025,NL
+Chicago Cubs,46,32,0,.590,-,2025,NL
+Milwaukee Brewers,43,36,0,.544,3.5,2025,NL
+St. Louis Cardinals,43,36,0,.544,3.5,2025,NL
+Cincinnati Reds,41,38,0,.519,5.5,2025,NL
+Pittsburgh Pirates,32,48,0,.400,15.0,2025,NL
+Los Angeles Dodgers,48,31,0,.608,-,2025,NL
+San Francisco Giants,44,34,0,.564,3.5,2025,NL
+San Diego Padres,42,36,0,.538,5.5,2025,NL
+Arizona Diamondbacks,40,38,0,.513,7.5,2025,NL
+Colorado Rockies,18,60,0,.231,29.5,2025,NL
 2025 National League Standings,,,,,,2025,NL

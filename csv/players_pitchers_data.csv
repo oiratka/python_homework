@@ -1,4 +1,1108 @@
 Section,Statistic,Name,Team,#,Top 25,Year,League
+2000 American League Player Review,Statistic,Name,Team,#,Top 25,2000,AL
+2000 American League Player Review,Base on Balls,Jason Giambi,Oakland,137,Top 25,2000,AL
+2000 American League Player Review,Batting Average,Nomar Garciaparra,Boston,.372,Top 25,2000,AL
+2000 American League Player Review,Doubles,Carlos Delgado,Toronto,57,Top 25,2000,AL
+2000 American League Player Review,Hits,Darin Erstad,Anaheim,240,Top 25,2000,AL
+2000 American League Player Review,Home Runs,Troy Glaus,Anaheim,47,Top 25,2000,AL
+2000 American League Player Review,On Base Percentage,Jason Giambi,Oakland,.476,Top 25,2000,AL
+2000 American League Player Review,RBI,Edgar Martinez,Seattle,145,Top 25,2000,AL
+2000 American League Player Review,Runs,Johnny Damon,Kansas City,136,Top 25,2000,AL
+2000 American League Player Review,Slugging Average,Manny Ramirez,Cleveland,.697,Top 25,2000,AL
+2000 American League Player Review,Stolen Bases,Johnny Damon,Kansas City,46,Top 25,2000,AL
+2000 American League Player Review,Total Bases,Carlos Delgado,Toronto,378,Top 25,2000,AL
+2000 American League Player Review,Triples,Cristian Guzman,Minnesota,20,Top 25,2000,AL
+2000 American League Player Review,Statistic,Name,Team,#,Top 25,2000,AL
+2000 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2000,AL
+2000 American League Pitcher Review,Complete Games,David Wells,Toronto,9,Top 25,2000,AL
+2000 American League Pitcher Review,ERA,Pedro Martinez,Boston,1.74,Top 25,2000,AL
+2000 American League Pitcher Review,Games,Kelly Wunsch,Chicago,83,Top 25,2000,AL
+2000 American League Pitcher Review,Saves,Todd Jones,Detroit,42,Top 25,2000,AL
+2000 American League Pitcher Review,Shutouts,Pedro Martinez,Boston,4,Top 25,2000,AL
+2000 American League Pitcher Review,Strikeouts,Pedro Martinez,Boston,284,Top 25,2000,AL
+2000 American League Pitcher Review,Winning Percentage,Tim Hudson,Oakland,.769,Top 25,2000,AL
+2000 American League Pitcher Review,Wins,Tim Hudson,Oakland,20,Top 25,2000,AL
+2000 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2000,AL
+2000 National League Player Review,Statistic,Name,Team,#,Top 25,2000,NL
+2000 National League Player Review,Base on Balls,Barry Bonds,San Francisco,117,Top 25,2000,NL
+2000 National League Player Review,Batting Average,Todd Helton,Colorado,.372,Top 25,2000,NL
+2000 National League Player Review,Doubles,Todd Helton,Colorado,59,Top 25,2000,NL
+2000 National League Player Review,Hits,Todd Helton,Colorado,216,Top 25,2000,NL
+2000 National League Player Review,Home Runs,Sammy Sosa,Chicago,50,Top 25,2000,NL
+2000 National League Player Review,On Base Percentage,Todd Helton,Colorado,.463,Top 25,2000,NL
+2000 National League Player Review,RBI,Todd Helton,Colorado,147,Top 25,2000,NL
+2000 National League Player Review,Runs,Jeff Bagwell,Houston,152,Top 25,2000,NL
+2000 National League Player Review,Slugging Average,Todd Helton,Colorado,.698,Top 25,2000,NL
+2000 National League Player Review,Stolen Bases,Luis Castillo,Florida,62,Top 25,2000,NL
+2000 National League Player Review,Total Bases,Todd Helton,Colorado,405,Top 25,2000,NL
+2000 National League Player Review,Triples,Tony Womack,Arizona,14,Top 25,2000,NL
+2000 National League Player Review,Statistic,Name,Team,#,Top 25,2000,NL
+2000 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2000,NL
+2000 National League Pitcher Review,Complete Games,Randy Johnson,Arizona,8,Top 25,2000,NL
+2000 National League Pitcher Review,ERA,Kevin Brown,Los Angeles,2.58,Top 25,2000,NL
+2000 National League Pitcher Review,Games,Steve Kline,St. Louis,83,Top 25,2000,NL
+2000 National League Pitcher Review,Saves,Antonio Alfonseca,Florida,45,Top 25,2000,NL
+2000 National League Pitcher Review,Shutouts,Greg Maddux,Atlanta,3,Top 25,2000,NL
+2000 National League Pitcher Review,Strikeouts,Randy Johnson,Arizona,347,Top 25,2000,NL
+2000 National League Pitcher Review,Winning Percentage,Randy Johnson,Arizona,.731,Top 25,2000,NL
+2000 National League Pitcher Review,Wins,Tom Glavine,Atlanta,21,Top 25,2000,NL
+2000 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2000,NL
+2001 American League Player Review,Statistic,Name,Team,#,Top 25,2001,AL
+2001 American League Player Review,Base on Balls,Jason Giambi,Oakland,129,Top 25,2001,AL
+2001 American League Player Review,Batting Average,Ichiro Suzuki,Seattle,.350,Top 25,2001,AL
+2001 American League Player Review,Doubles,Jason Giambi,Oakland,47,Top 25,2001,AL
+2001 American League Player Review,Hits,Ichiro Suzuki,Seattle,242,Top 25,2001,AL
+2001 American League Player Review,Home Runs,Alex Rodriguez,Texas,52,Top 25,2001,AL
+2001 American League Player Review,On Base Percentage,Jason Giambi,Oakland,.477,Top 25,2001,AL
+2001 American League Player Review,RBI,Bret Boone,Seattle,141,Top 25,2001,AL
+2001 American League Player Review,Runs,Alex Rodriguez,Texas,133,Top 25,2001,AL
+2001 American League Player Review,Slugging Average,Jason Giambi,Oakland,.660,Top 25,2001,AL
+2001 American League Player Review,Stolen Bases,Ichiro Suzuki,Seattle,56,Top 25,2001,AL
+2001 American League Player Review,Total Bases,Alex Rodriguez,Texas,393,Top 25,2001,AL
+2001 American League Player Review,Triples,Cristian Guzman,Minnesota,14,Top 25,2001,AL
+2001 American League Player Review,Statistic,Name,Team,#,Top 25,2001,AL
+2001 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2001,AL
+2001 American League Pitcher Review,Complete Games,Steve Sparks,Detroit,8,Top 25,2001,AL
+2001 American League Pitcher Review,ERA,Freddy Garcia,Seattle,3.05,Top 25,2001,AL
+2001 American League Pitcher Review,Games,Paul Quantrill,Toronto,80,Top 25,2001,AL
+2001 American League Pitcher Review,Saves,Mariano Rivera,New York,50,Top 25,2001,AL
+2001 American League Pitcher Review,Shutouts,Mark Mulder,Oakland,4,Top 25,2001,AL
+2001 American League Pitcher Review,Strikeouts,Hideo Nomo,Boston,220,Top 25,2001,AL
+2001 American League Pitcher Review,Winning Percentage,Roger Clemens,New York,.870,Top 25,2001,AL
+2001 American League Pitcher Review,Wins,Mark Mulder,Oakland,21,Top 25,2001,AL
+2001 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2001,AL
+2001 National League Player Review,Statistic,Name,Team,#,Top 25,2001,NL
+2001 National League Player Review,Base on Balls,Barry Bonds,San Francisco,177,Top 25,2001,NL
+2001 National League Player Review,Batting Average,Larry Walker,Colorado,.350,Top 25,2001,NL
+2001 National League Player Review,Doubles,Lance Berkman,Houston,55,Top 25,2001,NL
+2001 National League Player Review,Hits,Rich Aurilia,San Francisco,206,Top 25,2001,NL
+2001 National League Player Review,Home Runs,Barry Bonds,San Francisco,73,Top 25,2001,NL
+2001 National League Player Review,On Base Percentage,Barry Bonds,San Francisco,.515,Top 25,2001,NL
+2001 National League Player Review,RBI,Sammy Sosa,Chicago,160,Top 25,2001,NL
+2001 National League Player Review,Runs,Sammy Sosa,Chicago,146,Top 25,2001,NL
+2001 National League Player Review,Slugging Average,Barry Bonds,San Francisco,.863,Top 25,2001,NL
+2001 National League Player Review,Stolen Bases,Juan Pierre,Colorado,46,Top 25,2001,NL
+2001 National League Player Review,Total Bases,Sammy Sosa,Chicago,425,Top 25,2001,NL
+2001 National League Player Review,Triples,Jimmy Rollins,Philadelphia,12,Top 25,2001,NL
+2001 National League Player Review,Statistic,Name,Team,#,Top 25,2001,NL
+2001 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2001,NL
+2001 National League Pitcher Review,Complete Games,Curt Schilling,Arizona,6,Top 25,2001,NL
+2001 National League Pitcher Review,ERA,Randy Johnson,Arizona,2.49,Top 25,2001,NL
+2001 National League Pitcher Review,Games,Steve Kline,St. Louis,89,Top 25,2001,NL
+2001 National League Pitcher Review,Saves,Robb Nen,San Francisco,45,Top 25,2001,NL
+2001 National League Pitcher Review,Shutouts,Greg Maddux,Atlanta,3,Top 25,2001,NL
+2001 National League Pitcher Review,Strikeouts,Randy Johnson,Arizona,372,Top 25,2001,NL
+2001 National League Pitcher Review,Winning Percentage,Roy Oswalt,Houston,.824,Top 25,2001,NL
+2001 National League Pitcher Review,Wins,Curt Schilling,Arizona,22,Top 25,2001,NL
+2001 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2001,NL
+2002 American League Player Review,Statistic,Name,Team,#,Top 25,2002,AL
+2002 American League Player Review,Base on Balls,Jim Thome,Cleveland,122,Top 25,2002,AL
+2002 American League Player Review,Batting Average,Manny Ramirez,Boston,.349,Top 25,2002,AL
+2002 American League Player Review,Doubles,Garret Anderson,Anaheim,56,Top 25,2002,AL
+2002 American League Player Review,Hits,Alfonso Soriano,New York,209,Top 25,2002,AL
+2002 American League Player Review,Home Runs,Alex Rodriguez,Texas,57,Top 25,2002,AL
+2002 American League Player Review,On Base Percentage,Manny Ramirez,Boston,.450,Top 25,2002,AL
+2002 American League Player Review,RBI,Alex Rodriguez,Texas,142,Top 25,2002,AL
+2002 American League Player Review,Runs,Alfonso Soriano,New York,128,Top 25,2002,AL
+2002 American League Player Review,Slugging Average,Jim Thome,Cleveland,.677,Top 25,2002,AL
+2002 American League Player Review,Stolen Bases,Alfonso Soriano,New York,41,Top 25,2002,AL
+2002 American League Player Review,Total Bases,Alex Rodriguez,Texas,389,Top 25,2002,AL
+2002 American League Player Review,Triples,Johnny Damon,Boston,11,Top 25,2002,AL
+2002 American League Player Review,Statistic,Name,Team,#,Top 25,2002,AL
+2002 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2002,AL
+2002 American League Pitcher Review,Complete Games,Paul Byrd,Kansas City,7,Top 25,2002,AL
+2002 American League Pitcher Review,ERA,Pedro Martinez,Boston,2.26,Top 25,2002,AL
+2002 American League Pitcher Review,Games,Billy Koch,Oakland,84,Top 25,2002,AL
+2002 American League Pitcher Review,Saves,Eddie Guardado,Minnesota,45,Top 25,2002,AL
+2002 American League Pitcher Review,Shutouts,Jeff Weaver,New York,3,Top 25,2002,AL
+2002 American League Pitcher Review,Strikeouts,Pedro Martinez,Boston,239,Top 25,2002,AL
+2002 American League Pitcher Review,Winning Percentage,Pedro Martinez,Boston,.833,Top 25,2002,AL
+2002 American League Pitcher Review,Wins,Barry Zito,Oakland,23,Top 25,2002,AL
+2002 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2002,AL
+2002 National League Player Review,Statistic,Name,Team,#,Top 25,2002,NL
+2002 National League Player Review,Base on Balls,Barry Bonds,San Francisco,198,Top 25,2002,NL
+2002 National League Player Review,Batting Average,Barry Bonds,San Francisco,.370,Top 25,2002,NL
+2002 National League Player Review,Doubles,Bobby Abreu,Philadelphia,50,Top 25,2002,NL
+2002 National League Player Review,Hits,Vladimir Guerrero,Montreal,206,Top 25,2002,NL
+2002 National League Player Review,Home Runs,Sammy Sosa,Chicago,49,Top 25,2002,NL
+2002 National League Player Review,On Base Percentage,Barry Bonds,San Francisco,.582,Top 25,2002,NL
+2002 National League Player Review,RBI,Lance Berkman,Houston,128,Top 25,2002,NL
+2002 National League Player Review,Runs,Sammy Sosa,Chicago,122,Top 25,2002,NL
+2002 National League Player Review,Slugging Average,Barry Bonds,San Francisco,.799,Top 25,2002,NL
+2002 National League Player Review,Stolen Bases,Luis Castillo,Florida,48,Top 25,2002,NL
+2002 National League Player Review,Total Bases,Vladimir Guerrero,Montreal,364,Top 25,2002,NL
+2002 National League Player Review,Triples,Jimmy Rollins,Philadelphia,10,Top 25,2002,NL
+2002 National League Player Review,Statistic,Name,Team,#,Top 25,2002,NL
+2002 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2002,NL
+2002 National League Pitcher Review,Complete Games,Randy Johnson,Arizona,8,Top 25,2002,NL
+2002 National League Pitcher Review,ERA,Randy Johnson,Arizona,2.32,Top 25,2002,NL
+2002 National League Pitcher Review,Games,Paul Quantrill,Los Angeles,86,Top 25,2002,NL
+2002 National League Pitcher Review,Saves,John Smoltz,Atlanta,55,Top 25,2002,NL
+2002 National League Pitcher Review,Shutouts,A.J. Burnett,Florida,5,Top 25,2002,NL
+2002 National League Pitcher Review,Strikeouts,Randy Johnson,Arizona,334,Top 25,2002,NL
+2002 National League Pitcher Review,Winning Percentage,Randy Johnson,Arizona,.828,Top 25,2002,NL
+2002 National League Pitcher Review,Wins,Randy Johnson,Arizona,24,Top 25,2002,NL
+2002 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2002,NL
+2003 American League Player Review,Statistic,Name,Team,#,Top 25,2003,AL
+2003 American League Player Review,Base on Balls,Jason Giambi,New York,129,Top 25,2003,AL
+2003 American League Player Review,Batting Average,Bill Mueller,Boston,.326,Top 25,2003,AL
+2003 American League Player Review,Doubles,Garret Anderson,Anaheim,49,Top 25,2003,AL
+2003 American League Player Review,Hits,Vernon Wells,Toronto,215,Top 25,2003,AL
+2003 American League Player Review,Home Runs,Alex Rodriguez,Texas,47,Top 25,2003,AL
+2003 American League Player Review,On Base Percentage,Manny Ramirez,Boston,.427,Top 25,2003,AL
+2003 American League Player Review,RBI,Carlos Delgado,Toronto,145,Top 25,2003,AL
+2003 American League Player Review,Runs,Alex Rodriguez,Texas,124,Top 25,2003,AL
+2003 American League Player Review,Slugging Average,Alex Rodriguez,Texas,.600,Top 25,2003,AL
+2003 American League Player Review,Stolen Bases,Carl Crawford,Tampa Bay,55,Top 25,2003,AL
+2003 American League Player Review,Total Bases,Vernon Wells,Toronto,373,Top 25,2003,AL
+2003 American League Player Review,Triples,Cristian Guzman,Minnesota,14,Top 25,2003,AL
+2003 American League Player Review,Statistic,Name,Team,#,Top 25,2003,AL
+2003 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2003,AL
+2003 American League Pitcher Review,Complete Games,Bartolo Colon,Chicago,9,Top 25,2003,AL
+2003 American League Pitcher Review,ERA,Pedro Martinez,Boston,2.22,Top 25,2003,AL
+2003 American League Pitcher Review,Games,Trever Miller,Toronto,79,Top 25,2003,AL
+2003 American League Pitcher Review,Saves,Keith Foulke,Oakland,43,Top 25,2003,AL
+2003 American League Pitcher Review,Shutouts,Roy Halladay,Toronto,2,Top 25,2003,AL
+2003 American League Pitcher Review,Strikeouts,Esteban Loaiza,Chicago,207,Top 25,2003,AL
+2003 American League Pitcher Review,Winning Percentage,Roy Halladay,Toronto,.759,Top 25,2003,AL
+2003 American League Pitcher Review,Wins,Roy Halladay,Toronto,22,Top 25,2003,AL
+2003 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2003,AL
+2003 National League Player Review,Statistic,Name,Team,#,Top 25,2003,NL
+2003 National League Player Review,Base on Balls,Barry Bonds,San Francisco,148,Top 25,2003,NL
+2003 National League Player Review,Batting Average,Albert Pujols,St. Louis,.359,Top 25,2003,NL
+2003 National League Player Review,Doubles,Albert Pujols,St. Louis,51,Top 25,2003,NL
+2003 National League Player Review,Hits,Albert Pujols,St. Louis,212,Top 25,2003,NL
+2003 National League Player Review,Home Runs,Jim Thome,Philadelphia,47,Top 25,2003,NL
+2003 National League Player Review,On Base Percentage,Barry Bonds,San Francisco,.529,Top 25,2003,NL
+2003 National League Player Review,RBI,Preston Wilson,Colorado,141,Top 25,2003,NL
+2003 National League Player Review,Runs,Albert Pujols,St. Louis,137,Top 25,2003,NL
+2003 National League Player Review,Slugging Average,Barry Bonds,San Francisco,.749,Top 25,2003,NL
+2003 National League Player Review,Stolen Bases,Juan Pierre,Florida,45,Top 25,2003,NL
+2003 National League Player Review,Total Bases,Albert Pujols,St. Louis,394,Top 25,2003,NL
+2003 National League Player Review,Triples,Steve Finley,Arizona,10,Top 25,2003,NL
+2003 National League Player Review,Statistic,Name,Team,#,Top 25,2003,NL
+2003 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2003,NL
+2003 National League Pitcher Review,Complete Games,Livan Hernandez,Montreal,8,Top 25,2003,NL
+2003 National League Pitcher Review,ERA,Jason Schmidt,San Francisco,2.34,Top 25,2003,NL
+2003 National League Pitcher Review,Games,Paul Quantrill,Los Angeles,89,Top 25,2003,NL
+2003 National League Pitcher Review,Saves,Eric Gagne,Los Angeles,55,Top 25,2003,NL
+2003 National League Pitcher Review,Shutouts,Kevin Millwood,Philadelphia,3,Top 25,2003,NL
+2003 National League Pitcher Review,Strikeouts,Kerry Wood,Chicago,266,Top 25,2003,NL
+2003 National League Pitcher Review,Winning Percentage,Jason Schmidt,San Francisco,.773,Top 25,2003,NL
+2003 National League Pitcher Review,Wins,Russ Ortiz,Atlanta,21,Top 25,2003,NL
+2003 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2003,NL
+2004 American League Player Review,Statistic,Name,Team,#,Top 25,2004,AL
+2004 American League Player Review,Base on Balls,Eric Chavez,Oakland,95,Top 25,2004,AL
+2004 American League Player Review,Batting Average,Ichiro Suzuki,Seattle,.372,Top 25,2004,AL
+2004 American League Player Review,Doubles,Brian Roberts,Baltimore,50,Top 25,2004,AL
+2004 American League Player Review,Hits,Ichiro Suzuki,Seattle,262,Top 25,2004,AL
+2004 American League Player Review,Home Runs,Manny Ramirez,Boston,43,Top 25,2004,AL
+2004 American League Player Review,On Base Percentage,Melvin Mora,Baltimore,.419,Top 25,2004,AL
+2004 American League Player Review,RBI,Miguel Tejada,Baltimore,150,Top 25,2004,AL
+2004 American League Player Review,Runs,Vladimir Guerrero,Anaheim,124,Top 25,2004,AL
+2004 American League Player Review,Slugging Average,Manny Ramirez,Boston,.613,Top 25,2004,AL
+2004 American League Player Review,Stolen Bases,Carl Crawford,Tampa Bay,59,Top 25,2004,AL
+2004 American League Player Review,Total Bases,Vladimir Guerrero,Anaheim,366,Top 25,2004,AL
+2004 American League Player Review,Triples,Carl Crawford,Tampa Bay,19,Top 25,2004,AL
+2004 American League Player Review,Statistic,Name,Team,#,Top 25,2004,AL
+2004 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2004,AL
+2004 American League Pitcher Review,Complete Games,Mark Mulder,Oakland,5,Top 25,2004,AL
+2004 American League Pitcher Review,ERA,Johan Santana,Minnesota,2.61,Top 25,2004,AL
+2004 American League Pitcher Review,Games,Paul Quantrill,New York,86,Top 25,2004,AL
+2004 American League Pitcher Review,Saves,Mariano Rivera,New York,53,Top 25,2004,AL
+2004 American League Pitcher Review,Shutouts,Jeremy Bonderman,Detroit,2,Top 25,2004,AL
+2004 American League Pitcher Review,Strikeouts,Johan Santana,Minnesota,265,Top 25,2004,AL
+2004 American League Pitcher Review,Winning Percentage,Curt Schilling,Boston,.778,Top 25,2004,AL
+2004 American League Pitcher Review,Wins,Curt Schilling,Boston,21,Top 25,2004,AL
+2004 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2004,AL
+2004 National League Player Review,Statistic,Name,Team,#,Top 25,2004,NL
+2004 National League Player Review,Base on Balls,Barry Bonds,San Francisco,232,Top 25,2004,NL
+2004 National League Player Review,Batting Average,Barry Bonds,San Francisco,.362,Top 25,2004,NL
+2004 National League Player Review,Doubles,Lyle Overbay,Milwaukee,53,Top 25,2004,NL
+2004 National League Player Review,Hits,Juan Pierre,Florida,221,Top 25,2004,NL
+2004 National League Player Review,Home Runs,Adrian Beltre,Los Angeles,48,Top 25,2004,NL
+2004 National League Player Review,On Base Percentage,Barry Bonds,San Francisco,.609,Top 25,2004,NL
+2004 National League Player Review,RBI,Vinny Castilla,Colorado,131,Top 25,2004,NL
+2004 National League Player Review,Runs,Albert Pujols,St. Louis,133,Top 25,2004,NL
+2004 National League Player Review,Slugging Average,Barry Bonds,San Francisco,.812,Top 25,2004,NL
+2004 National League Player Review,Stolen Bases,Scott Podsednik,Milwaukee,70,Top 25,2004,NL
+2004 National League Player Review,Total Bases,Albert Pujols,St. Louis,389,Top 25,2004,NL
+2004 National League Player Review,Triples,Juan Pierre,Florida,12,Top 25,2004,NL
+2004 National League Player Review,Statistic,Name,Team,#,Top 25,2004,NL
+2004 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2004,NL
+2004 National League Pitcher Review,Complete Games,Livan Hernandez,Montreal,9,Top 25,2004,NL
+2004 National League Pitcher Review,ERA,Jake Peavy,San Diego,2.27,Top 25,2004,NL
+2004 National League Pitcher Review,Games,Jim Brower,San Francisco,89,Top 25,2004,NL
+2004 National League Pitcher Review,Saves,Armando Benitez,Florida,47,Top 25,2004,NL
+2004 National League Pitcher Review,Shutouts,Cory Lidle,Philadelphia,3,Top 25,2004,NL
+2004 National League Pitcher Review,Strikeouts,Randy Johnson,Arizona,290,Top 25,2004,NL
+2004 National League Pitcher Review,Winning Percentage,Roger Clemens,Houston,.818,Top 25,2004,NL
+2004 National League Pitcher Review,Wins,Roy Oswalt,Houston,20,Top 25,2004,NL
+2004 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2004,NL
+2005 American League Player Review,Statistic,Name,Team,#,Top 25,2005,AL
+2005 American League Player Review,Base on Balls,Jason Giambi,New York,108,Top 25,2005,AL
+2005 American League Player Review,Batting Average,Michael Young,Texas,.331,Top 25,2005,AL
+2005 American League Player Review,Doubles,Miguel Tejada,Baltimore,50,Top 25,2005,AL
+2005 American League Player Review,Hits,Michael Young,Texas,221,Top 25,2005,AL
+2005 American League Player Review,Home Runs,Alex Rodriguez,New York,48,Top 25,2005,AL
+2005 American League Player Review,On Base Percentage,Jason Giambi,New York,.440,Top 25,2005,AL
+2005 American League Player Review,RBI,David Ortiz,Boston,148,Top 25,2005,AL
+2005 American League Player Review,Runs,Alex Rodriguez,New York,124,Top 25,2005,AL
+2005 American League Player Review,Slugging Average,Alex Rodriguez,New York,.610,Top 25,2005,AL
+2005 American League Player Review,Stolen Bases,Chone Figgins,Los Angeles,62,Top 25,2005,AL
+2005 American League Player Review,Total Bases,Mark Teixeira,Texas,370,Top 25,2005,AL
+2005 American League Player Review,Triples,Carl Crawford,Tampa Bay,15,Top 25,2005,AL
+2005 American League Player Review,Statistic,Name,Team,#,Top 25,2005,AL
+2005 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2005,AL
+2005 American League Pitcher Review,Complete Games,Roy Halladay,Toronto,5,Top 25,2005,AL
+2005 American League Pitcher Review,ERA,Kevin Millwood,Cleveland,2.86,Top 25,2005,AL
+2005 American League Pitcher Review,Games,Mike Timlin,Boston,81,Top 25,2005,AL
+2005 American League Pitcher Review,Saves,Francisco Rodriguez,Los Angeles,45,Top 25,2005,AL
+2005 American League Pitcher Review,Shutouts,Jon Garland,Chicago,3,Top 25,2005,AL
+2005 American League Pitcher Review,Strikeouts,Johan Santana,Minnesota,238,Top 25,2005,AL
+2005 American League Pitcher Review,Winning Percentage,Cliff Lee,Cleveland,.783,Top 25,2005,AL
+2005 American League Pitcher Review,Wins,Bartolo Colon,Los Angeles,21,Top 25,2005,AL
+2005 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2005,AL
+2005 National League Player Review,Statistic,Name,Team,#,Top 25,2005,NL
+2005 National League Player Review,Base on Balls,Brian Giles,San Diego,119,Top 25,2005,NL
+2005 National League Player Review,Batting Average,Derrek Lee,Chicago,.335,Top 25,2005,NL
+2005 National League Player Review,Doubles,Derrek Lee,Chicago,50,Top 25,2005,NL
+2005 National League Player Review,Hits,Derrek Lee,Chicago,199,Top 25,2005,NL
+2005 National League Player Review,Home Runs,Andruw Jones,Atlanta,51,Top 25,2005,NL
+2005 National League Player Review,On Base Percentage,Todd Helton,Colorado,.445,Top 25,2005,NL
+2005 National League Player Review,RBI,Andruw Jones,Atlanta,128,Top 25,2005,NL
+2005 National League Player Review,Runs,Albert Pujols,St. Louis,129,Top 25,2005,NL
+2005 National League Player Review,Slugging Average,Derrek Lee,Chicago,.662,Top 25,2005,NL
+2005 National League Player Review,Stolen Bases,Jose Reyes,New York,60,Top 25,2005,NL
+2005 National League Player Review,Total Bases,Derrek Lee,Chicago,393,Top 25,2005,NL
+2005 National League Player Review,Triples,Jose Reyes,New York,17,Top 25,2005,NL
+2005 National League Player Review,Statistic,Name,Team,#,Top 25,2005,NL
+2005 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2005,NL
+2005 National League Pitcher Review,Complete Games,Chris Carpenter,St. Louis,7,Top 25,2005,NL
+2005 National League Pitcher Review,ERA,Roger Clemens,Houston,1.87,Top 25,2005,NL
+2005 National League Pitcher Review,Games,Scott Eyre,San Francisco,86,Top 25,2005,NL
+2005 National League Pitcher Review,Saves,Chad Cordero,Washington,47,Top 25,2005,NL
+2005 National League Pitcher Review,Shutouts,Dontrelle Willis,Florida,5,Top 25,2005,NL
+2005 National League Pitcher Review,Strikeouts,Jake Peavy,San Diego,216,Top 25,2005,NL
+2005 National League Pitcher Review,Winning Percentage,Chris Carpenter,St. Louis,.808,Top 25,2005,NL
+2005 National League Pitcher Review,Wins,Dontrelle Willis,Florida,22,Top 25,2005,NL
+2005 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2005,NL
+2006 American League Player Review,Statistic,Name,Team,#,Top 25,2006,AL
+2006 American League Player Review,Base on Balls,David Ortiz,Boston,119,Top 25,2006,AL
+2006 American League Player Review,Batting Average,Joe Mauer,Minnesota,.347,Top 25,2006,AL
+2006 American League Player Review,Doubles,Grady Sizemore,Cleveland,53,Top 25,2006,AL
+2006 American League Player Review,Hits,Ichiro Suzuki,Seattle,224,Top 25,2006,AL
+2006 American League Player Review,Home Runs,David Ortiz,Boston,54,Top 25,2006,AL
+2006 American League Player Review,On Base Percentage,Manny Ramirez,Boston,.439,Top 25,2006,AL
+2006 American League Player Review,RBI,David Ortiz,Boston,137,Top 25,2006,AL
+2006 American League Player Review,Runs,Grady Sizemore,Cleveland,134,Top 25,2006,AL
+2006 American League Player Review,Slugging Average,Travis Hafner,Cleveland,.659,Top 25,2006,AL
+2006 American League Player Review,Stolen Bases,Carl Crawford,Tampa Bay,58,Top 25,2006,AL
+2006 American League Player Review,Total Bases,David Ortiz,Boston,355,Top 25,2006,AL
+2006 American League Player Review,Triples,Carl Crawford,Tampa Bay,16,Top 25,2006,AL
+2006 American League Player Review,Statistic,Name,Team,#,Top 25,2006,AL
+2006 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2006,AL
+2006 American League Pitcher Review,Complete Games,C.C. Sabathia,Cleveland,6,Top 25,2006,AL
+2006 American League Pitcher Review,ERA,Johan Santana,Minnesota,2.77,Top 25,2006,AL
+2006 American League Pitcher Review,Games,Scott Proctor,New York,83,Top 25,2006,AL
+2006 American League Pitcher Review,Saves,Francisco Rodriguez,Los Angeles,47,Top 25,2006,AL
+2006 American League Pitcher Review,Shutouts,John Lackey,Los Angeles,2,Top 25,2006,AL
+2006 American League Pitcher Review,Strikeouts,Johan Santana,Minnesota,245,Top 25,2006,AL
+2006 American League Pitcher Review,Winning Percentage,Roy Halladay,Toronto,.762,Top 25,2006,AL
+2006 American League Pitcher Review,Wins,Johan Santana,Minnesota,19,Top 25,2006,AL
+2006 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2006,AL
+2006 National League Player Review,Statistic,Name,Team,#,Top 25,2006,NL
+2006 National League Player Review,Base on Balls,Barry Bonds,San Francisco,115,Top 25,2006,NL
+2006 National League Player Review,Batting Average,Freddy Sanchez,Pittsburgh,.344,Top 25,2006,NL
+2006 National League Player Review,Doubles,Freddy Sanchez,Pittsburgh,53,Top 25,2006,NL
+2006 National League Player Review,Hits,Juan Pierre,Chicago,204,Top 25,2006,NL
+2006 National League Player Review,Home Runs,Ryan Howard,Philadelphia,58,Top 25,2006,NL
+2006 National League Player Review,On Base Percentage,Barry Bonds *,San Francisco,.454,Top 25,2006,NL
+2006 National League Player Review,RBI,Ryan Howard,Philadelphia,149,Top 25,2006,NL
+2006 National League Player Review,Runs,Chase Utley,Philadelphia,131,Top 25,2006,NL
+2006 National League Player Review,Slugging Average,Albert Pujols,St. Louis,.671,Top 25,2006,NL
+2006 National League Player Review,Stolen Bases,Jose Reyes,New York,64,Top 25,2006,NL
+2006 National League Player Review,Total Bases,Ryan Howard,Philadelphia,383,Top 25,2006,NL
+2006 National League Player Review,Triples,Jose Reyes,New York,17,Top 25,2006,NL
+2006 National League Player Review,Statistic,Name,Team,#,Top 25,2006,NL
+2006 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2006,NL
+2006 National League Pitcher Review,Complete Games,Aaron Harang,Cincinnati,6,Top 25,2006,NL
+2006 National League Pitcher Review,ERA,Roy Oswalt,Houston,2.98,Top 25,2006,NL
+2006 National League Pitcher Review,Games,Salomon Torres,Pittsburgh,94,Top 25,2006,NL
+2006 National League Pitcher Review,Saves,Trevor Hoffman,San Diego,46,Top 25,2006,NL
+2006 National League Pitcher Review,Shutouts,Chris Carpenter,St. Louis,3,Top 25,2006,NL
+2006 National League Pitcher Review,Strikeouts,Aaron Harang,Cincinnati,216,Top 25,2006,NL
+2006 National League Pitcher Review,Winning Percentage,Carlos Zambrano,Chicago,.696,Top 25,2006,NL
+2006 National League Pitcher Review,Wins,Aaron Harang,Cincinnati,16,Top 25,2006,NL
+2006 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2006,NL
+2007 American League Player Review,Statistic,Name,Team,#,Top 25,2007,AL
+2007 American League Player Review,Base on Balls,David Ortiz,Boston,111,Top 25,2007,AL
+2007 American League Player Review,Batting Average,Magglio Ordonez,Detroit,.363,Top 25,2007,AL
+2007 American League Player Review,Doubles,Magglio Ordonez,Detroit,54,Top 25,2007,AL
+2007 American League Player Review,Hits,Ichiro Suzuki,Seattle,238,Top 25,2007,AL
+2007 American League Player Review,Home Runs,Alex Rodriguez,New York,54,Top 25,2007,AL
+2007 American League Player Review,On Base Percentage,David Ortiz,Boston,.445,Top 25,2007,AL
+2007 American League Player Review,RBI,Alex Rodriguez,New York,156,Top 25,2007,AL
+2007 American League Player Review,Runs,Alex Rodriguez,New York,143,Top 25,2007,AL
+2007 American League Player Review,Slugging Average,Alex Rodriguez,New York,.645,Top 25,2007,AL
+2007 American League Player Review,Stolen Bases,Carl Crawford,Tampa Bay,50,Top 25,2007,AL
+2007 American League Player Review,Total Bases,Alex Rodriguez,New York,376,Top 25,2007,AL
+2007 American League Player Review,Triples,Curtis Granderson,Detroit,23,Top 25,2007,AL
+2007 American League Player Review,Statistic,Name,Team,#,Top 25,2007,AL
+2007 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2007,AL
+2007 American League Pitcher Review,Complete Games,Roy Halladay,Toronto,7,Top 25,2007,AL
+2007 American League Pitcher Review,ERA,John Lackey,Los Angeles,3.01,Top 25,2007,AL
+2007 American League Pitcher Review,Games,Jamie Walker,Baltimore,81,Top 25,2007,AL
+2007 American League Pitcher Review,Saves,Joe Borowski,Cleveland,45,Top 25,2007,AL
+2007 American League Pitcher Review,Shutouts,Paul Byrd,Cleveland,2,Top 25,2007,AL
+2007 American League Pitcher Review,Strikeouts,Scott Kazmir,Tampa Bay,239,Top 25,2007,AL
+2007 American League Pitcher Review,Winning Percentage,Justin Verlander,Detroit,.762,Top 25,2007,AL
+2007 American League Pitcher Review,Wins,Josh Beckett,Boston,20,Top 25,2007,AL
+2007 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2007,AL
+2007 National League Player Review,Statistic,Name,Team,#,Top 25,2007,NL
+2007 National League Player Review,Base on Balls,Barry Bonds,San Francisco,132,Top 25,2007,NL
+2007 National League Player Review,Batting Average,Matt Holliday,Colorado,.340,Top 25,2007,NL
+2007 National League Player Review,Doubles,Matt Holliday,Colorado,50,Top 25,2007,NL
+2007 National League Player Review,Hits,Matt Holliday,Colorado,216,Top 25,2007,NL
+2007 National League Player Review,Home Runs,Prince Fielder,Milwaukee,50,Top 25,2007,NL
+2007 National League Player Review,On Base Percentage,Todd Helton,Colorado,.434,Top 25,2007,NL
+2007 National League Player Review,RBI,Matt Holliday,Colorado,137,Top 25,2007,NL
+2007 National League Player Review,Runs,Jimmy Rollins,Philadelphia,139,Top 25,2007,NL
+2007 National League Player Review,Slugging Average,Prince Fielder,Milwaukee,.618,Top 25,2007,NL
+2007 National League Player Review,Stolen Bases,Jose Reyes,New York,78,Top 25,2007,NL
+2007 National League Player Review,Total Bases,Matt Holliday,Colorado,386,Top 25,2007,NL
+2007 National League Player Review,Triples,Jimmy Rollins,Philadelphia,20,Top 25,2007,NL
+2007 National League Player Review,Statistic,Name,Team,#,Top 25,2007,NL
+2007 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2007,NL
+2007 National League Pitcher Review,Complete Games,Brandon Webb,Arizona,4,Top 25,2007,NL
+2007 National League Pitcher Review,ERA,Jake Peavy,San Diego,2.54,Top 25,2007,NL
+2007 National League Pitcher Review,Games,Jon Rauch,Washington,88,Top 25,2007,NL
+2007 National League Pitcher Review,Saves,Jose Valverde,Arizona,47,Top 25,2007,NL
+2007 National League Pitcher Review,Shutouts,Brandon Webb,Arizona,3,Top 25,2007,NL
+2007 National League Pitcher Review,Strikeouts,Jake Peavy,San Diego,240,Top 25,2007,NL
+2007 National League Pitcher Review,Winning Percentage,Brad Penny,Los Angeles,.800,Top 25,2007,NL
+2007 National League Pitcher Review,Wins,Jake Peavy,San Diego,19,Top 25,2007,NL
+2007 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2007,NL
+2008 American League Player Review,Statistic,Name,Team,#,Top 25,2008,AL
+2008 American League Player Review,Base on Balls,Jack Cust,Oakland,111,Top 25,2008,AL
+2008 American League Player Review,Batting Average,Joe Mauer,Minnesota,.330,Top 25,2008,AL
+2008 American League Player Review,Doubles,Dustin Pedroia,Boston,54,Top 25,2008,AL
+2008 American League Player Review,Hits,Dustin Pedroia,Boston,213,Top 25,2008,AL
+2008 American League Player Review,Home Runs,Miguel Cabrera,Detroit,37,Top 25,2008,AL
+2008 American League Player Review,On Base Percentage,Milton Bradley,Texas,.436,Top 25,2008,AL
+2008 American League Player Review,RBI,Josh Hamilton,Texas,130,Top 25,2008,AL
+2008 American League Player Review,Runs,Dustin Pedroia,Boston,118,Top 25,2008,AL
+2008 American League Player Review,Slugging Average,Alex Rodriguez,New York,.573,Top 25,2008,AL
+2008 American League Player Review,Stolen Bases,Jacoby Ellsbury,Boston,50,Top 25,2008,AL
+2008 American League Player Review,Total Bases,Josh Hamilton,Texas,331,Top 25,2008,AL
+2008 American League Player Review,Triples,Curtis Granderson,Detroit,13,Top 25,2008,AL
+2008 American League Player Review,Statistic,Name,Team,#,Top 25,2008,AL
+2008 American League Player Review,Statistic,Name,Team,#,Top 25,2008,AL
+2008 American League Player Review,Complete Games,Roy Halladay,Toronto,9,Top 25,2008,AL
+2008 American League Player Review,ERA,Cliff Lee,Cleveland,2.54,Top 25,2008,AL
+2008 American League Player Review,Games,Matt Guerrier,Minnesota,76,Top 25,2008,AL
+2008 American League Player Review,Saves,Francisco Rodriguez,Los Angeles,62,Top 25,2008,AL
+2008 American League Player Review,Shutouts,Matt Garza,Tampa Bay,2,Top 25,2008,AL
+2008 American League Player Review,Strikeouts,A.J. Burnett,Toronto,231,Top 25,2008,AL
+2008 American League Player Review,Winning Percentage,Cliff Lee,Cleveland,.880,Top 25,2008,AL
+2008 American League Player Review,Wins,Cliff Lee,Cleveland,22,Top 25,2008,AL
+2008 American League Player Review,Statistic,Name,Team,#,Top 25,2008,AL
+2008 National League Player Review,Statistic,Name,Team,#,Top 25,2008,NL
+2008 National League Player Review,Base on Balls,Adam Dunn,Arizona,122,Top 25,2008,NL
+2008 National League Player Review,Batting Average,Chipper Jones,Atlanta,.364,Top 25,2008,NL
+2008 National League Player Review,Doubles,Lance Berkman,Houston,46,Top 25,2008,NL
+2008 National League Player Review,Hits,Jose Reyes,New York,204,Top 25,2008,NL
+2008 National League Player Review,Home Runs,Ryan Howard,Philadelphia,48,Top 25,2008,NL
+2008 National League Player Review,On Base Percentage,Chipper Jones,Atlanta,.470,Top 25,2008,NL
+2008 National League Player Review,RBI,Ryan Howard,Philadelphia,146,Top 25,2008,NL
+2008 National League Player Review,Runs,Hanley Ramirez,Florida,125,Top 25,2008,NL
+2008 National League Player Review,Slugging Average,Albert Pujols,St. Louis,.653,Top 25,2008,NL
+2008 National League Player Review,Stolen Bases,Willy Taveras,Colorado,68,Top 25,2008,NL
+2008 National League Player Review,Total Bases,Albert Pujols,St. Louis,342,Top 25,2008,NL
+2008 National League Player Review,Triples,Jose Reyes,New York,19,Top 25,2008,NL
+2008 National League Player Review,Statistic,Name,Team,#,Top 25,2008,NL
+2008 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2008,NL
+2008 National League Pitcher Review,Complete Games,C.C. Sabathia,Milwaukee,7,Top 25,2008,NL
+2008 National League Pitcher Review,ERA,Johan Santana,New York,2.53,Top 25,2008,NL
+2008 National League Pitcher Review,Games,Pedro Feliciano,New York,86,Top 25,2008,NL
+2008 National League Pitcher Review,Saves,Jose Valverde,Houston,44,Top 25,2008,NL
+2008 National League Pitcher Review,Shutouts,C.C. Sabathia,Milwaukee,3,Top 25,2008,NL
+2008 National League Pitcher Review,Strikeouts,Tim Lincecum,San Francisco,265,Top 25,2008,NL
+2008 National League Pitcher Review,Winning Percentage,Tim Lincecum,San Francisco,.783,Top 25,2008,NL
+2008 National League Pitcher Review,Wins,Brandon Webb,Arizona,22,Top 25,2008,NL
+2008 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2008,NL
+2009 American League Player Review,Statistic,Name,Team,#,Top 25,2009,AL
+2009 American League Player Review,Base on Balls,Chone Figgins,Los Angeles,101,Top 25,2009,AL
+2009 American League Player Review,Batting Average,Joe Mauer,Minnesota,.365,Top 25,2009,AL
+2009 American League Player Review,Doubles,Brian Roberts,Baltimore,56,Top 25,2009,AL
+2009 American League Player Review,Hits,Ichiro Suzuki,Seattle,225,Top 25,2009,AL
+2009 American League Player Review,Home Runs,Carlos Pena,Tampa Bay,39,Top 25,2009,AL
+2009 American League Player Review,On Base Percentage,Joe Mauer,Minnesota,.444,Top 25,2009,AL
+2009 American League Player Review,RBI,Mark Teixeira,New York,122,Top 25,2009,AL
+2009 American League Player Review,Runs,DustinPedroia,Boston,115,Top 25,2009,AL
+2009 American League Player Review,Slugging Average,Joe Mauer,Minnesota,.587,Top 25,2009,AL
+2009 American League Player Review,Stolen Bases,Jacoby Ellsbury,Boston,70,Top 25,2009,AL
+2009 American League Player Review,Total Bases,Mark Teixeira,New York,344,Top 25,2009,AL
+2009 American League Player Review,Triples,Jacoby Ellsbury,Boston,10,Top 25,2009,AL
+2009 American League Player Review,Statistic,Name,Team,#,Top 25,2009,AL
+2009 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2009,AL
+2009 American League Pitcher Review,Complete Games,Roy Halladay,Toronto,9,Top 25,2009,AL
+2009 American League Pitcher Review,ERA,Zack Greinke,Kansas City,2.16,Top 25,2009,AL
+2009 American League Pitcher Review,Games,Matt Guerrier,Minnesota,79,Top 25,2009,AL
+2009 American League Pitcher Review,Saves,Brian Fuentes,Los Angeles,48,Top 25,2009,AL
+2009 American League Pitcher Review,Shutouts,Roy Halladay,Toronto,4,Top 25,2009,AL
+2009 American League Pitcher Review,Strikeouts,Justin Verlander,Detroit,269,Top 25,2009,AL
+2009 American League Pitcher Review,Winning Percentage,Felix Hernandez,Seattle,.792,Top 25,2009,AL
+2009 American League Pitcher Review,Wins,Felix Hernandez,Seattle,19,Top 25,2009,AL
+2009 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2009,AL
+2009 National League Player Review,Statistic,Name,Team,#,Top 25,2009,NL
+2009 National League Player Review,Base on Balls,Adrian Gonzalez,San Diego,119,Top 25,2009,NL
+2009 National League Player Review,Batting Average,Hanley Ramirez,Florida,.342,Top 25,2009,NL
+2009 National League Player Review,Doubles,Miguel Tejada,Houston,46,Top 25,2009,NL
+2009 National League Player Review,Hits,Ryan Braun,Milwaukee,203,Top 25,2009,NL
+2009 National League Player Review,Home Runs,Albert Pujols,St. Louis,47,Top 25,2009,NL
+2009 National League Player Review,On Base Percentage,Albert Pujols,St. Louis,.443,Top 25,2009,NL
+2009 National League Player Review,RBI,Prince Fielder,Milwaukee,141,Top 25,2009,NL
+2009 National League Player Review,Runs,Albert Pujols,St. Louis,124,Top 25,2009,NL
+2009 National League Player Review,Slugging Average,Albert Pujols,St. Louis,.658,Top 25,2009,NL
+2009 National League Player Review,Stolen Bases,Michael Bourn,Houston,61,Top 25,2009,NL
+2009 National League Player Review,Total Bases,Albert Pujols,St. Louis,374,Top 25,2009,NL
+2009 National League Player Review,Triples,Shane Victorino,Philadelphia,13,Top 25,2009,NL
+2009 National League Player Review,Statistic,Name,Team,#,Top 25,2009,NL
+2009 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2009,NL
+2009 National League Pitcher Review,Complete Games,Matt Cain,San Francisco,4,Top 25,2009,NL
+2009 National League Pitcher Review,ERA,Chris Carpenter,St. Louis,2.24,Top 25,2009,NL
+2009 National League Pitcher Review,Games,Pedro Feliciano,New York,88,Top 25,2009,NL
+2009 National League Pitcher Review,Saves,Heath Bell,San Diego,42,Top 25,2009,NL
+2009 National League Pitcher Review,Shutouts,Bronson Arroyo,Cincinnati,2,Top 25,2009,NL
+2009 National League Pitcher Review,Strikeouts,Tim Lincecum,San Francisco,261,Top 25,2009,NL
+2009 National League Pitcher Review,Winning Percentage,Chris Carpenter,St. Louis,.810,Top 25,2009,NL
+2009 National League Pitcher Review,Wins,Adam Wainwright,St. Louis,19,Top 25,2009,NL
+2009 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2009,NL
+2010 American League Player Review,Statistic,Name,Team,#,Top 25,2010,AL
+2010 American League Player Review,Base on Balls,Daric Barton,Oakland,110,Top 25,2010,AL
+2010 American League Player Review,Batting Average,Josh Hamilton,Texas,.359,Top 25,2010,AL
+2010 American League Player Review,Doubles,Adrian Beltre,Boston,49,Top 25,2010,AL
+2010 American League Player Review,Hits,Ichiro Suzuki,Seattle,214,Top 25,2010,AL
+2010 American League Player Review,Home Runs,Jose Bautista,Toronto,54,Top 25,2010,AL
+2010 American League Player Review,On Base Percentage,Miguel Cabrera,Detroit,.420,Top 25,2010,AL
+2010 American League Player Review,RBI,Miguel Cabrera,Detroit,126,Top 25,2010,AL
+2010 American League Player Review,Runs,Mark Teixeira,New York,113,Top 25,2010,AL
+2010 American League Player Review,Slugging Average,Josh Hamilton,Texas,.633,Top 25,2010,AL
+2010 American League Player Review,Stolen Bases,Juan Pierre,Chicago,68,Top 25,2010,AL
+2010 American League Player Review,Total Bases,Jose Bautista,Toronto,351,Top 25,2010,AL
+2010 American League Player Review,Triples,Carl Crawford,Tampa Bay,13,Top 25,2010,AL
+2010 American League Player Review,Statistic,Name,Team,#,Top 25,2010,AL
+2010 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2010,AL
+2010 American League Pitcher Review,Complete Games,Cliff Lee,Seattle / Texas,7,Top 25,2010,AL
+2010 American League Pitcher Review,ERA,Felix Hernandez,Seattle,2.27,Top 25,2010,AL
+2010 American League Pitcher Review,Games,Randy Choate,Tampa Bay,85,Top 25,2010,AL
+2010 American League Pitcher Review,Saves,Rafael Soriano,Tampa Bay,45,Top 25,2010,AL
+2010 American League Pitcher Review,Shutouts,Dallas Braden,Oakland,2,Top 25,2010,AL
+2010 American League Pitcher Review,Strikeouts,Jered Weaver,Los Angeles,233,Top 25,2010,AL
+2010 American League Pitcher Review,Winning Percentage,Tommy Hunter,Texas,.765,Top 25,2010,AL
+2010 American League Pitcher Review,Wins,C.C. Sabathia,New York,21,Top 25,2010,AL
+2010 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2010,AL
+2010 National League Player Review,Statistic,Name,Team,#,Top 25,2010,NL
+2010 National League Player Review,Base on Balls,Prince Fielder,Milwaukee,114,Top 25,2010,NL
+2010 National League Player Review,Batting Average,Carlos Gonzalez,Colorado,.336,Top 25,2010,NL
+2010 National League Player Review,Doubles,Jayson Werth,Philadelphia,46,Top 25,2010,NL
+2010 National League Player Review,Hits,Carlos Gonzalez,Colorado,197,Top 25,2010,NL
+2010 National League Player Review,Home Runs,Albert Pujols,St. Louis,42,Top 25,2010,NL
+2010 National League Player Review,On Base Percentage,Joey Votto,Cincinnati,.424,Top 25,2010,NL
+2010 National League Player Review,RBI,Albert Pujols,St. Louis,118,Top 25,2010,NL
+2010 National League Player Review,Runs,Albert Pujols,St. Louis,115,Top 25,2010,NL
+2010 National League Player Review,Slugging Average,Joey Votto,Cincinnati,.600,Top 25,2010,NL
+2010 National League Player Review,Stolen Bases,Michael Bourn,Houston,52,Top 25,2010,NL
+2010 National League Player Review,Total Bases,Carlos Gonzalez,Colorado,351,Top 25,2010,NL
+2010 National League Player Review,Triples,Dexter Fowler,Colorado,14,Top 25,2010,NL
+2010 National League Player Review,Statistic,Name,Team,#,Top 25,2010,NL
+2010 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2010,NL
+2010 National League Pitcher Review,Complete Games,Roy Hallady,Philadelphia,9,Top 25,2010,NL
+2010 National League Pitcher Review,ERA,Josh Johnson,Florida,2.30,Top 25,2010,NL
+2010 National League Pitcher Review,Games,Pedro Feliciano,New York,92,Top 25,2010,NL
+2010 National League Pitcher Review,Saves,Brian Wilson,San Francisco,48,Top 25,2010,NL
+2010 National League Pitcher Review,Shutouts,Roy Hallady,Philadelphia,4,Top 25,2010,NL
+2010 National League Pitcher Review,Strikeouts,Tim Lincecum,San Francisco,231,Top 25,2010,NL
+2010 National League Pitcher Review,Winning Percentage,Ubaldo Jimenez,Colorado,.704,Top 25,2010,NL
+2010 National League Pitcher Review,Wins,Roy Hallady,Philadelphia,21,Top 25,2010,NL
+2010 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2010,NL
+2011 American League Player Review,Statistic,Name,Team,#,Top 25,2011,AL
+2011 American League Player Review,Base on Balls,Jose Bautista,Toronto,132,Top 25,2011,AL
+2011 American League Player Review,Batting Average,Miguel Cabrera,Detroit,.344,Top 25,2011,AL
+2011 American League Player Review,Doubles,Miguel Cabrera,Detroit,48,Top 25,2011,AL
+2011 American League Player Review,Hits,Adrian Gonzalez,Boston,213,Top 25,2011,AL
+2011 American League Player Review,Home Runs,Jose Bautista,Toronto,43,Top 25,2011,AL
+2011 American League Player Review,On Base Percentage,Miguel Cabrera,Detroit,.448,Top 25,2011,AL
+2011 American League Player Review,RBI,Curtis Granderson,New York,119,Top 25,2011,AL
+2011 American League Player Review,Runs,Curtis Granderson,New York,136,Top 25,2011,AL
+2011 American League Player Review,Slugging Average,Jose Bautista,Toronto,.608,Top 25,2011,AL
+2011 American League Player Review,Stolen Bases,Coco Crisp,Oakland,49,Top 25,2011,AL
+2011 American League Player Review,Total Bases,Jacoby Ellsbury,Boston,364,Top 25,2011,AL
+2011 American League Player Review,Triples,Peter Bourjos,Los Angeles,11,Top 25,2011,AL
+2011 American League Player Review,Statistic,Name,Team,#,Top 25,2011,AL
+2011 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2011,AL
+2011 American League Pitcher Review,Complete Games,James Shields,Tampa Bay,11,Top 25,2011,AL
+2011 American League Pitcher Review,ERA,Justin Verlander,Detroit,2.40,Top 25,2011,AL
+2011 American League Pitcher Review,Games,Jose Valverde,Detroit,75,Top 25,2011,AL
+2011 American League Pitcher Review,Saves,Jose Valverde,Detroit,49,Top 25,2011,AL
+2011 American League Pitcher Review,Shutouts,Derek Holland,Texas,4,Top 25,2011,AL
+2011 American League Pitcher Review,Strikeouts,Justin Verlander,Detroit,250,Top 25,2011,AL
+2011 American League Pitcher Review,Winning Percentage,Justin Verlander,Detroit,.828,Top 25,2011,AL
+2011 American League Pitcher Review,Wins,Justin Verlander,Detroit,24,Top 25,2011,AL
+2011 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2011,AL
+2011 National League Player Review,Statistic,Name,Team,#,Top 25,2011,NL
+2011 National League Player Review,Base on Balls,Joey Votto,Cincinnati,110,Top 25,2011,NL
+2011 National League Player Review,Batting Average,Jose Reyes,New York,.337,Top 25,2011,NL
+2011 National League Player Review,Doubles,Joey Votto,Cincinnati,40,Top 25,2011,NL
+2011 National League Player Review,Hits,Starlin Castro,Chicago,207,Top 25,2011,NL
+2011 National League Player Review,Home Runs,Matt Kemp,Los Angeles,39,Top 25,2011,NL
+2011 National League Player Review,On Base Percentage,Joey Votto,Cincinnati,.416,Top 25,2011,NL
+2011 National League Player Review,RBI,Matt Kemp,Los Angeles,126,Top 25,2011,NL
+2011 National League Player Review,Runs,Matt Kemp,Los Angeles,115,Top 25,2011,NL
+2011 National League Player Review,Slugging Average,Ryan Braun,Milwaukee,.597,Top 25,2011,NL
+2011 National League Player Review,Stolen Bases,Michael Bourn,Houston / Atlanta,61,Top 25,2011,NL
+2011 National League Player Review,Total Bases,Matt Kemp,Los Angeles,353,Top 25,2011,NL
+2011 National League Player Review,Triples,Jose Reyes,New York,16,Top 25,2011,NL
+2011 National League Player Review,Statistic,Name,Team,#,Top 25,2011,NL
+2011 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2011,NL
+2011 National League Pitcher Review,Complete Games,Roy Halladay,Philadelphia,8,Top 25,2011,NL
+2011 National League Pitcher Review,ERA,Clayton Kershaw,Los Angeles,2.28,Top 25,2011,NL
+2011 National League Pitcher Review,Games,Jonny Venters,Atlanta,85,Top 25,2011,NL
+2011 National League Pitcher Review,Saves,John Axford,Milwaukee,46,Top 25,2011,NL
+2011 National League Pitcher Review,Shutouts,Cliff Lee,Philadelphia,6,Top 25,2011,NL
+2011 National League Pitcher Review,Strikeouts,Clayton Kershaw,Los Angeles,248,Top 25,2011,NL
+2011 National League Pitcher Review,Winning Percentage,Ian Kennedy,Arizona,.840,Top 25,2011,NL
+2011 National League Pitcher Review,Wins,Ian Kennedy,Arizona,21,Top 25,2011,NL
+2011 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2011,NL
+2012 American League Player Review,Statistic,Name,Team,#,Top 25,2012,AL
+2012 American League Player Review,Base on Balls,Adam Dunn,Chicago,105,Top 25,2012,AL
+2012 American League Player Review,Batting Average,Miguel Cabrera,Detroit,.330,Top 25,2012,AL
+2012 American League Player Review,Doubles,Alex Gordon,Kansas City,51,Top 25,2012,AL
+2012 American League Player Review,Hits,Derek Jeter,New York,216,Top 25,2012,AL
+2012 American League Player Review,Home Runs,Miguel Cabrera,Detroit,44,Top 25,2012,AL
+2012 American League Player Review,On Base Percentage,Joe Mauer,Minnesota,.416,Top 25,2012,AL
+2012 American League Player Review,RBI,Miguel Cabrera,Detroit,139,Top 25,2012,AL
+2012 American League Player Review,Runs,Mike Trout,Los Angeles,129,Top 25,2012,AL
+2012 American League Player Review,Slugging Average,Miguel Cabrera,Detroit,.606,Top 25,2012,AL
+2012 American League Player Review,Stolen Bases,Mike Trout,Los Angeles,49,Top 25,2012,AL
+2012 American League Player Review,Total Bases,Miguel Cabrera,Detroit,377,Top 25,2012,AL
+2012 American League Player Review,Triples,Austin Jackson,Detroit,10,Top 25,2012,AL
+2012 American League Player Review,Statistic,Name,Team,#,Top 25,2012,AL
+2012 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2012,AL
+2012 American League Pitcher Review,Complete Games,Justin Verlander,Detroit,6,Top 25,2012,AL
+2012 American League Pitcher Review,ERA,David Price,Tampa Bay,2.56,Top 25,2012,AL
+2012 American League Pitcher Review,Games,Boone Logan,New York,80,Top 25,2012,AL
+2012 American League Pitcher Review,Saves,Jim Johnson,Baltimore,51,Top 25,2012,AL
+2012 American League Pitcher Review,Shutouts,Felix Hernandez,Seattle,5,Top 25,2012,AL
+2012 American League Pitcher Review,Strikeouts,Justin Verlander,Detroit,239,Top 25,2012,AL
+2012 American League Pitcher Review,Winning Percentage,David Price,Tampa Bay,.800,Top 25,2012,AL
+2012 American League Pitcher Review,Wins,David Price,Tampa Bay,20,Top 25,2012,AL
+2012 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2012,AL
+2012 National League Player Review,Statistic,Name,Team,#,Top 25,2012,NL
+2012 National League Player Review,Base on Balls,Dan Uggla,Atlanta,94,Top 25,2012,NL
+2012 National League Player Review,Batting Average,Buster Posey *,San Francisco,.336,Top 25,2012,NL
+2012 National League Player Review,Doubles,Aramis Ramirez,Milwaukee,50,Top 25,2012,NL
+2012 National League Player Review,Hits,Andrew McCutchen,Pittsburgh,194,Top 25,2012,NL
+2012 National League Player Review,Home Runs,Ryan Braun,Milwaukee,41,Top 25,2012,NL
+2012 National League Player Review,On Base Percentage,Joey Votto,Cincinnati,.474,Top 25,2012,NL
+2012 National League Player Review,RBI,Chase Headley,San Diego,115,Top 25,2012,NL
+2012 National League Player Review,Runs,Ryan Braun,Milwaukee,108,Top 25,2012,NL
+2012 National League Player Review,Slugging Average,Mike Stanton,Miami,.608,Top 25,2012,NL
+2012 National League Player Review,Stolen Bases,Everth Cabrera,San Diego,44,Top 25,2012,NL
+2012 National League Player Review,Total Bases,Ryan Braun,Milwaukee,356,Top 25,2012,NL
+2012 National League Player Review,Triples,Angel Pagan,San Francisco,15,Top 25,2012,NL
+2012 National League Player Review,Statistic,Name,Team,#,Top 25,2012,NL
+2012 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2012,NL
+2012 National League Pitcher Review,Complete Games,R.A. Dickey,New York,5,Top 25,2012,NL
+2012 National League Pitcher Review,ERA,Clayton Kershaw,Los Angeles,2.53,Top 25,2012,NL
+2012 National League Pitcher Review,Games,Matt Belisle,Colorado,80,Top 25,2012,NL
+2012 National League Pitcher Review,Saves,Craig Kimbrel,Atlanta,42,Top 25,2012,NL
+2012 National League Pitcher Review,Shutouts,R.A. Dickey,New York,3,Top 25,2012,NL
+2012 National League Pitcher Review,Strikeouts,R.A. Dickey,New York,230,Top 25,2012,NL
+2012 National League Pitcher Review,Winning Percentage,Kyle Lohse,St. Louis,.842,Top 25,2012,NL
+2012 National League Pitcher Review,Wins,Gio Gonzalez,Washington,21,Top 25,2012,NL
+2012 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2012,NL
+2013 American League Player Review,Statistic,Name,Team,#,Top 25,2013,AL
+2013 American League Player Review,Base on Balls,Mike Trout,Los Angeles,110,Top 25,2013,AL
+2013 American League Player Review,Batting Average,Miguel Cabrera,Detroit,.348,Top 25,2013,AL
+2013 American League Player Review,Doubles,Manny Machado,Baltimore,51,Top 25,2013,AL
+2013 American League Player Review,Hits,Adrian Beltre,Texas,199,Top 25,2013,AL
+2013 American League Player Review,Home Runs,Chris Davis,Baltimore,53,Top 25,2013,AL
+2013 American League Player Review,On Base Percentage,Miguel Cabrera,Detroit,.442,Top 25,2013,AL
+2013 American League Player Review,RBI,Chris Davis,Baltimore,138,Top 25,2013,AL
+2013 American League Player Review,Runs,Mike Trout,Los Angeles,109,Top 25,2013,AL
+2013 American League Player Review,Slugging Average,Miguel Cabrera,Detroit,.636,Top 25,2013,AL
+2013 American League Player Review,Stolen Bases,Jacoby Ellsbury,Boston,52,Top 25,2013,AL
+2013 American League Player Review,Total Bases,Chris Davis,Baltimore,370,Top 25,2013,AL
+2013 American League Player Review,Triples,Brett Gardner,New York,10,Top 25,2013,AL
+2013 American League Player Review,Statistic,Name,Team,#,Top 25,2013,AL
+2013 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2013,AL
+2013 American League Pitcher Review,Complete Games,David Price,Tampa Bay,4,Top 25,2013,AL
+2013 American League Pitcher Review,ERA,Anibal Sanchez,Detroit,2.57,Top 25,2013,AL
+2013 American League Pitcher Review,Games,Joel Peralta,Tampa Bay,80,Top 25,2013,AL
+2013 American League Pitcher Review,Saves,Jim Johnson,Baltimore,50,Top 25,2013,AL
+2013 American League Pitcher Review,Shutouts,Bartolo Colon,Oakland,3,Top 25,2013,AL
+2013 American League Pitcher Review,Strikeouts,Yu Darvish,Texas,277,Top 25,2013,AL
+2013 American League Pitcher Review,Winning Percentage,Max Scherzer,Detroit,.875,Top 25,2013,AL
+2013 American League Pitcher Review,Wins,Max Scherzer,Detroit,21,Top 25,2013,AL
+2013 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2013,AL
+2013 National League Player Review,Statistic,Name,Team,#,Top 25,2013,NL
+2013 National League Player Review,Base on Balls,Joey Votto,Cincinnati,135,Top 25,2013,NL
+2013 National League Player Review,Batting Average,Michael Cuddyer,Colorado,.331,Top 25,2013,NL
+2013 National League Player Review,Doubles,Matt Carpenter,St. Louis,55,Top 25,2013,NL
+2013 National League Player Review,Hits,Matt Carpenter,St. Louis,199,Top 25,2013,NL
+2013 National League Player Review,Home Runs,Pedro Alvarez,Pittsburgh,36,Top 25,2013,NL
+2013 National League Player Review,On Base Percentage,Joey Votto,Cincinnati,.435,Top 25,2013,NL
+2013 National League Player Review,RBI,Paul Goldschmidt,Arizona,125,Top 25,2013,NL
+2013 National League Player Review,Runs,Matt Carpenter,St. Louis,126,Top 25,2013,NL
+2013 National League Player Review,Slugging Average,Paul Goldschmidt,Arizona,.552,Top 25,2013,NL
+2013 National League Player Review,Stolen Bases,Eric Young,Colorado / New York,46,Top 25,2013,NL
+2013 National League Player Review,Total Bases,Paul Goldschmidt,Arizona,332,Top 25,2013,NL
+2013 National League Player Review,Triples,Denard Span,Washington,11,Top 25,2013,NL
+2013 National League Player Review,Statistic,Name,Team,#,Top 25,2013,NL
+2013 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2013,NL
+2013 National League Pitcher Review,Complete Games,Adam Wainwright,St. Louis,4,Top 25,2013,NL
+2013 National League Pitcher Review,ERA,Clayton Kershaw,Los Angeles,1.83,Top 25,2013,NL
+2013 National League Pitcher Review,Games,Brad Ziegler,Arizona,78,Top 25,2013,NL
+2013 National League Pitcher Review,Saves,Craig Kimbrel,Atlanta,50,Top 25,2013,NL
+2013 National League Pitcher Review,Shutouts,Clayton Kershaw,Los Angeles,3,Top 25,2013,NL
+2013 National League Pitcher Review,Strikeouts,Clayton Kershaw,Los Angeles,232,Top 25,2013,NL
+2013 National League Pitcher Review,Winning Percentage,Zack Greinke,Los Angeles,.789,Top 25,2013,NL
+2013 National League Pitcher Review,Wins,Adam Wainwright,St. Louis,19,Top 25,2013,NL
+2013 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2013,NL
+2014 American League Player Review,Statistic,Name,Team,#,Top 25,2014,AL
+2014 American League Player Review,Base on Balls,Carlos Santana,Cleveland,113,Top 25,2014,AL
+2014 American League Player Review,Batting Average,Jose Altuve,Houston,.341,Top 25,2014,AL
+2014 American League Player Review,Doubles,Miguel Cabrera,Detroit,52,Top 25,2014,AL
+2014 American League Player Review,Hits,Jose Altuve,Houston,225,Top 25,2014,AL
+2014 American League Player Review,Home Runs,Nelson Cruz,Baltimore,40,Top 25,2014,AL
+2014 American League Player Review,On Base Percentage,Victor Martinez,Detroit,.409,Top 25,2014,AL
+2014 American League Player Review,RBI,Mike Trout,Los Angeles,111,Top 25,2014,AL
+2014 American League Player Review,Runs,Mike Trout,Los Angeles,115,Top 25,2014,AL
+2014 American League Player Review,Slugging Average,Jose Abreu,Chicago,.581,Top 25,2014,AL
+2014 American League Player Review,Stolen Bases,Jose Altuve,Chicago,56,Top 25,2014,AL
+2014 American League Player Review,Total Bases,Mike Trout,Los Angeles,338,Top 25,2014,AL
+2014 American League Player Review,Triples,Michael Bourn,Cleveland,10,Top 25,2014,AL
+2014 American League Player Review,Statistic,Name,Team,#,Top25,2014,AL
+2014 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2014,AL
+2014 American League Pitcher Review,Complete Games,Dallas Keuchel,Houston,5,Top 25,2014,AL
+2014 American League Pitcher Review,ERA,Felix Hernandez,Seattle,2.14,Top 25,2014,AL
+2014 American League Pitcher Review,Games,Bryan Shaw,Cleveland,80,Top 25,2014,AL
+2014 American League Pitcher Review,Saves,Fernando Rodney,Seattle,48,Top 25,2014,AL
+2014 American League Pitcher Review,Shutouts,Rick Porcello,Detroit,3,Top 25,2014,AL
+2014 American League Pitcher Review,Strikeouts,David Price,Tampa Bay / Detroit,271,Top 25,2014,AL
+2014 American League Pitcher Review,Winning Percentage,Max Scherzer,Detroit,.783,Top 25,2014,AL
+2014 American League Pitcher Review,Wins,Corey Kluber,Texas,18,Top 25,2014,AL
+2014 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2014,AL
+2014 National League Player Review,Statistic,Name,Team,#,Top 25,2014,NL
+2014 National League Player Review,Base on Balls,Matt Carpenter,St. Louis,95,Top 25,2014,NL
+2014 National League Player Review,Batting Average,Justin Morneau,Colorado,.319,Top 25,2014,NL
+2014 National League Player Review,Doubles,Jonathan Lucroy,Milwaukee,53,Top 25,2014,NL
+2014 National League Player Review,Hits,Ben Revere,Philadelphia,184,Top 25,2014,NL
+2014 National League Player Review,Home Runs,Giancarlo Stanton,Miami,37,Top 25,2014,NL
+2014 National League Player Review,On Base Percentage,Andrew McCutchen,Pittsburgh,.410,Top 25,2014,NL
+2014 National League Player Review,RBI,Adrian Gonzalez,Los Angeles,116,Top 25,2014,NL
+2014 National League Player Review,Runs,Anthony Rendon,Washington,111,Top 25,2014,NL
+2014 National League Player Review,Slugging Average,Giancarlo Stanton,Miami,.555,Top 25,2014,NL
+2014 National League Player Review,Stolen Bases,Dee Strange-Gordon,Los Angeles,64,Top 25,2014,NL
+2014 National League Player Review,Total Bases,Giancarlo Stanton,Miami,299,Top 25,2014,NL
+2014 National League Player Review,Triples,Dee Strange-Gordon,Los Angeles,12,Top 25,2014,NL
+2014 National League Player Review,Statistic,Name,Team,#,Top 25,2014,NL
+2014 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2014,NL
+2014 National League Pitcher Review,Complete Games,Clayton Kershaw,Los Angeles,6,Top 25,2014,NL
+2014 National League Pitcher Review,ERA,Clayton Kershaw,Los Angeles,1.77,Top 25,2014,NL
+2014 National League Pitcher Review,Games,Will Smith,Milwaukee,78,Top 25,2014,NL
+2014 National League Pitcher Review,Saves,Craig Kimbrel,Atlanta,47,Top 25,2014,NL
+2014 National League Pitcher Review,Shutouts,Henderson Alvarez,Miami,4,Top 25,2014,NL
+2014 National League Pitcher Review,Strikeouts,Johnny Cueto,Cincinnati,242,Top 25,2014,NL
+2014 National League Pitcher Review,Winning Percentage,Clayton Kershaw,Los Angeles,.875,Top 25,2014,NL
+2014 National League Pitcher Review,Wins,Clayton Kershaw,Los Angeles,21,Top 25,2014,NL
+2014 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2014,NL
+2015 American League Player Review,Statistic,Name,Team,#,Top 25,2015,AL
+2015 American League Player Review,Base on Balls,Jose Bautista,Toronto,110,Top 25,2015,AL
+2015 American League Player Review,Batting Average,Miguel Cabrera,Detroit,.338,Top 25,2015,AL
+2015 American League Player Review,Doubles,Michael Brantley,Cleveland,45,Top 25,2015,AL
+2015 American League Player Review,Hits,Jose Altuve,Houston,200,Top 25,2015,AL
+2015 American League Player Review,Home Runs,Chris Davis,Baltimore,47,Top 25,2015,AL
+2015 American League Player Review,On Base Percentage,Miguel Cabrera,Detroit,.440,Top 25,2015,AL
+2015 American League Player Review,RBI,Josh Donaldson,Toronto,123,Top 25,2015,AL
+2015 American League Player Review,Runs,Josh Donaldson,Toronto,122,Top 25,2015,AL
+2015 American League Player Review,Slugging Average,Mike Trout,Los Angeles,.590,Top 25,2015,AL
+2015 American League Player Review,Stolen Bases,Jose Altuve,Houston,38,Top 25,2015,AL
+2015 American League Player Review,Total Bases,Josh Donaldson,Toronto,352,Top 25,2015,AL
+2015 American League Player Review,Triples,Eddie Rosario,Minnesota,15,Top 25,2015,AL
+2015 American League Player Review,Statistic,Name,Team,#,Top 25,2015,AL
+2015 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2015,AL
+2015 American League Pitcher Review,Complete Games,Mark Buehrle,Toronto,4,Top 25,2015,AL
+2015 American League Pitcher Review,ERA,David Price,Detroit / Toronto,2.45,Top 25,2015,AL
+2015 American League Pitcher Review,Games,Kevin Jepsen,Tampa Bay / Minnesota,75,Top 25,2015,AL
+2015 American League Pitcher Review,Saves,Brad Boxberger,Tampa Bay,41,Top 25,2015,AL
+2015 American League Pitcher Review,Shutouts,Sonny Gray,Oakland,2,Top 25,2015,AL
+2015 American League Pitcher Review,Strikeouts,Chris Sale,Chicago,274,Top 25,2015,AL
+2015 American League Pitcher Review,Winning Percentage,David Price,Detroit / Toronto,.783,Top 25,2015,AL
+2015 American League Pitcher Review,Wins,Dallas Keuchel,Houston,20,Top 25,2015,AL
+2015 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2015,AL
+2015 National League Player Review,Statistic,Name,Team,#,Top 25,2015,NL
+2015 National League Player Review,Base on Balls,Joey Votto,Cincinnati,143,Top 25,2015,NL
+2015 National League Player Review,Batting Average,Dee Gordon,Miami,.333,Top 25,2015,NL
+2015 National League Player Review,Doubles,Matt Carpenter,St. Louis,44,Top 25,2015,NL
+2015 National League Player Review,Hits,Dee Gordon,Miami,205,Top 25,2015,NL
+2015 National League Player Review,Home Runs,Nolan Arenado,Colorado,42,Top 25,2015,NL
+2015 National League Player Review,On Base Percentage,Bryce Harper,Washington,.460,Top 25,2015,NL
+2015 National League Player Review,RBI,Nolan Arenado,Colorado,130,Top 25,2015,NL
+2015 National League Player Review,Runs,Bryce Harper,Washington,118,Top 25,2015,NL
+2015 National League Player Review,Slugging Average,Bryce Harper,Washington,.649,Top 25,2015,NL
+2015 National League Player Review,Stolen Bases,Dee Gordon,Miami,58,Top 25,2015,NL
+2015 National League Player Review,Total Bases,Nolan Arenado,Colorado,354,Top 25,2015,NL
+2015 National League Player Review,Triples,David Peralta,Arizona,10,Top 25,2015,NL
+2015 National League Player Review,Statistic,Name,Team,#,Top 25,2015,NL
+2015 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2015,NL
+2015 National League Pitcher Review,Complete Games,Jake Arrieta,Chicago,4,Top 25,2015,NL
+2015 National League Pitcher Review,ERA,Zack Greinke,Los Angeles,1.66,Top 25,2015,NL
+2015 National League Pitcher Review,Games,Kevin Siegrist,St. Louis,81,Top 25,2015,NL
+2015 National League Pitcher Review,Saves,Mark Melancon,Pittsburgh,51,Top 25,2015,NL
+2015 National League Pitcher Review,Shutouts,Jake Arrieta,Chicago,3,Top 25,2015,NL
+2015 National League Pitcher Review,Strikeouts,Clayton Kershaw,Los Angeles,301,Top 25,2015,NL
+2015 National League Pitcher Review,Winning Percentage,Zack Greinke,Los Angeles,.864,Top 25,2015,NL
+2015 National League Pitcher Review,Wins,Jake Arrieta,Chicago,22,Top 25,2015,NL
+2015 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2015,NL
+2016 American League Player Review,Statistic,Name,Team,#,Top 25,2016,AL
+2016 American League Player Review,Base on Balls,Mike Trout,Los Angeles,116,Top 25,2016,AL
+2016 American League Player Review,Batting Average,Jose Altuve,Houston,.338,Top 25,2016,AL
+2016 American League Player Review,Doubles,David Ortiz,Boston,48,Top 25,2016,AL
+2016 American League Player Review,Hits,Jose Altuve,Houston,216,Top 25,2016,AL
+2016 American League Player Review,Home Runs,Mark Trumbo,Baltimore,47,Top 25,2016,AL
+2016 American League Player Review,On Base Percentage,Mike Trout,Los Angeles,.441,Top 25,2016,AL
+2016 American League Player Review,RBI,Edwin Encarnacion,Toronto,127,Top 25,2016,AL
+2016 American League Player Review,Runs,Mike Trout,Los Angeles,123,Top 25,2016,AL
+2016 American League Player Review,Slugging Average,David Ortiz,Boston,.620,Top 25,2016,AL
+2016 American League Player Review,Stolen Bases,Rajai Davis,Cleveland,43,Top 25,2016,AL
+2016 American League Player Review,Total Bases,Mookie Betts,Boston,359,Top 25,2016,AL
+2016 American League Player Review,Triples,Adam Eaton,Chicago,9,Top 25,2016,AL
+2016 American League Player Review,Statistic,Name,Team,#,Top 25,2016,AL
+2016 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2016,AL
+2016 American League Pitcher Review,Complete Games,Chris Sale,Chicago,6,Top 25,2016,AL
+2016 American League Pitcher Review,ERA,Aaron Sanchez,Toronto,3.00,Top 25,2016,AL
+2016 American League Pitcher Review,Games,Bryan Shaw,Cleveland,75,Top 25,2016,AL
+2016 American League Pitcher Review,Saves,Zach Britton,Baltimore,47,Top 25,2016,AL
+2016 American League Pitcher Review,Shutouts,Corey Kluber,Cleveland,2,Top 25,2016,AL
+2016 American League Pitcher Review,Strikeouts,Justin Verlander,Detroit,254,Top 25,2016,AL
+2016 American League Pitcher Review,Winning Percentage,Aaron Sanchez,Toronto,.882,Top 25,2016,AL
+2016 American League Pitcher Review,Wins,Rick Porcello,Boston,22,Top 25,2016,AL
+2016 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2016,AL
+2016 National League Player Review,Statistic,Name,Team,#,Top 25,2016,NL
+2016 National League Player Review,Base on Balls,Paul Goldschmidt,Arizona,110,Top 25,2016,NL
+2016 National League Player Review,Batting Average,DJ LeMahieu,Colorado,.348,Top 25,2016,NL
+2016 National League Player Review,Doubles,Daniel Murphy,Washington,47,Top 25,2016,NL
+2016 National League Player Review,Hits,Jean Segura,Arizona,203,Top 25,2016,NL
+2016 National League Player Review,Home Runs,Nolan Arenado,Colorado,41,Top 25,2016,NL
+2016 National League Player Review,On Base Percentage,Joey Votto,Cincinnati,.434,Top 25,2016,NL
+2016 National League Player Review,RBI,Nolan Arenado,Colorado,133,Top 25,2016,NL
+2016 National League Player Review,Runs,Kris Bryant,Chicago,121,Top 25,2016,NL
+2016 National League Player Review,Slugging Average,Daniel Murphy,Washington,.595,Top 25,2016,NL
+2016 National League Player Review,Stolen Bases,Jonathan Villar,Milwaukee,62,Top 25,2016,NL
+2016 National League Player Review,Total Bases,Nolan Arenado,Colorado,352,Top 25,2016,NL
+2016 National League Player Review,Triples,Brandon Crawford,San Francisco,11,Top 25,2016,NL
+2016 National League Player Review,Statistic,Name,Team,#,Top 25,2016,NL
+2016 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2016,NL
+2016 National League Pitcher Review,Complete Games,Johnny Cueto,San Francisco,5,Top 25,2016,NL
+2016 National League Pitcher Review,ERA,Kyle Hendricks,Chicago,2.13,Top 25,2016,NL
+2016 National League Pitcher Review,Games,Brad Hand,San Diego,82,Top 25,2016,NL
+2016 National League Pitcher Review,Saves,Jeurys Familia,New York,51,Top 25,2016,NL
+2016 National League Pitcher Review,Shutouts,Clayton Kershaw,Los Angeles,3,Top 25,2016,NL
+2016 National League Pitcher Review,Strikeouts,Max Scherzer,Washington,284,Top 25,2016,NL
+2016 National League Pitcher Review,Winning Percentage,Jon Lester,Chicago,.792,Top 25,2016,NL
+2016 National League Pitcher Review,Wins,Max Scherzer,Washington,20,Top 25,2016,NL
+2016 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2016,NL
+2017 American League Player Review,Statistic,Name,Team,#,Top 25,2017,AL
+2017 American League Player Review,Base on Balls,Aaron Judge,New York Yankees,127,Top 25,2017,AL
+2017 American League Player Review,Batting Average,Jose Altuve,Houston Astros,.346,Top 25,2017,AL
+2017 American League Player Review,Doubles,Jose Ramirez,Cleveland Indians,56,Top 25,2017,AL
+2017 American League Player Review,Hits,Jose Altuve,Houston Astros,204,Top 25,2017,AL
+2017 American League Player Review,Home Runs,Aaron Judge,New York Yankees,52,Top 25,2017,AL
+2017 American League Player Review,On Base Percentage,Mike Trout,Los Angeles Angels,.442,Top 25,2017,AL
+2017 American League Player Review,RBI,Nelson Cruz,Seattle Mariners,119,Top 25,2017,AL
+2017 American League Player Review,Runs,Aaron Judge,New York Yankees,128,Top 25,2017,AL
+2017 American League Player Review,Slugging Average,Mike Trout,Los Angeles Angels,.629,Top 25,2017,AL
+2017 American League Player Review,Stolen Bases,Whit Merrifield,Kansas City Royals,34,Top 25,2017,AL
+2017 American League Player Review,Total Bases,Jose Abreu,Chicago White Sox,343,Top 25,2017,AL
+2017 American League Player Review,Triples,Nick Castellanos,Detroit Tigers,10,Top 25,2017,AL
+2017 American League Player Review,Statistic,Name,Team,#,Top 25,2017,AL
+2017 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2017,AL
+2017 American League Pitcher Review,Complete Games,Corey Kluber,Cleveland Indians,5,Top 25,2017,AL
+2017 American League Pitcher Review,ERA,Corey Kluber,Cleveland Indians,2.25,Top 25,2017,AL
+2017 American League Pitcher Review,Games,Bryan Shaw,Cleveland Indians,79,Top 25,2017,AL
+2017 American League Pitcher Review,Saves,Alex Colome,Tampa Bay Rays,46,Top 25,2017,AL
+2017 American League Pitcher Review,Shutouts,Corey Kluber,Cleveland Indians,3,Top 25,2017,AL
+2017 American League Pitcher Review,Strikeouts,Chris Sale,Boston Red Sox,308,Top 25,2017,AL
+2017 American League Pitcher Review,Winning Percentage,Corey Kluber,Cleveland Indians,.818,Top 25,2017,AL
+2017 American League Pitcher Review,Wins,Carlos Carrasco,Cleveland Indians,18,Top 25,2017,AL
+2017 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2017,AL
+2017 National League Player Review,Statistic,Name,Team,#,Top 25,2017,NL
+2017 National League Player Review,Base on Balls,Joey Votto,Cincinnati Reds,134,Top 25,2017,NL
+2017 National League Player Review,Batting Average,Charlie Blackmon,Colorado Rockies,.331,Top 25,2017,NL
+2017 National League Player Review,Doubles,Nolan Arenado,Colorado Rockies,43,Top 25,2017,NL
+2017 National League Player Review,Hits,Charlie Blackmon,Colorado Rockies,213,Top 25,2017,NL
+2017 National League Player Review,Home Runs,Giancarlo Stanton,Miami Marlins,59,Top 25,2017,NL
+2017 National League Player Review,On Base Percentage,Joey Votto,Cincinnati Reds,.454,Top 25,2017,NL
+2017 National League Player Review,RBI,Giancarlo Stanton,Miami Marlins,132,Top 25,2017,NL
+2017 National League Player Review,Runs,Charlie Blackmon,Colorado Rockies,137,Top 25,2017,NL
+2017 National League Player Review,Slugging Average,Giancarlo Stanton,Miami Marlins,.631,Top 25,2017,NL
+2017 National League Player Review,Stolen Bases,Dee Gordon,Miami Marlins,60,Top 25,2017,NL
+2017 National League Player Review,Total Bases,Charlie Blackmon,Colorado Rockies,387,Top 25,2017,NL
+2017 National League Player Review,Triples,Charlie Blackmon,Colorado Rockies,14,Top 25,2017,NL
+2017 National League Player Review,Statistic,Name,Team,#,Top 25,2017,NL
+2017 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2017,NL
+2017 National League Pitcher Review,Complete Games,Carlos Martinez,St. Louis Cardinals,2,Top 25,2017,NL
+2017 National League Pitcher Review,ERA,Clayton Kershaw,Los Angeles Dodgers,2.21,Top 25,2017,NL
+2017 National League Pitcher Review,Games,Corey Knebel,Milwaukee Brewers,76,Top 25,2017,NL
+2017 National League Pitcher Review,Saves,Greg Holland,Colorado Rockies,41,Top 25,2017,NL
+2017 National League Pitcher Review,Shutouts,Carlos Martinez,St. Louis Cardinals,2,Top 25,2017,NL
+2017 National League Pitcher Review,Strikeouts,Max Scherzer,Washington Nationals,268,Top 25,2017,NL
+2017 National League Pitcher Review,Winning Percentage,Clayton Kershaw,Los Angeles Dodgers,.818,Top 25,2017,NL
+2017 National League Pitcher Review,Wins,Clayton Kershaw,Los Angeles Dodgers,18,Top 25,2017,NL
+2017 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2017,NL
+2018 American League Player Review,Statistic,Name,Team,#,Top 25,2018,AL
+2018 American League Player Review,Base on Balls,Mike Trout,Los Angeles Angels,122,Top 25,2018,AL
+2018 American League Player Review,Batting Average,Mookie Betts,Boston Red Sox,.346,Top 25,2018,AL
+2018 American League Player Review,Doubles,Alex Bregman,Houston Astros,50,Top 25,2018,AL
+2018 American League Player Review,Hits,Whit Merrifield,Kansas City Royals,192,Top 25,2018,AL
+2018 American League Player Review,Home Runs,Khris Davis,Oakland Athletics,48,Top 25,2018,AL
+2018 American League Player Review,On Base Percentage,Mike Trout,Los Angeles Angels,.460,Top 25,2018,AL
+2018 American League Player Review,RBI,J.D. Martinez,Boston Red Sox,130,Top 25,2018,AL
+2018 American League Player Review,Runs,Mookie Betts,Boston Red Sox,129,Top 25,2018,AL
+2018 American League Player Review,Slugging Average,Mookie Betts,Boston Red Sox,.640,Top 25,2018,AL
+2018 American League Player Review,Stolen Bases,Whit Merrifield,Kansas City Royals,45,Top 25,2018,AL
+2018 American League Player Review,Total Bases,J.D. Martinez,Boston Red Sox,358,Top 25,2018,AL
+2018 American League Player Review,Triples,Yolmer Sanchez,Chicago White Sox,10,Top 25,2018,AL
+2018 American League Player Review,Statistic,Name,Team,#,Top 25,2018,AL
+2018 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2018,AL
+2018 American League Pitcher Review,Complete Games,Jose Berrios,Minnesota Twins,2,Top 25,2018,AL
+2018 American League Pitcher Review,ERA,Blake Snell,Tampa Bay Rays,1.89,Top 25,2018,AL
+2018 American League Pitcher Review,Games,Ryan Pressly,Minnesota Twins,77,Top 25,2018,AL
+2018 American League Pitcher Review,Saves,Edwin Diaz,Seattle Mariners,57,Top 25,2018,AL
+2018 American League Pitcher Review,Shutouts,Jose Berrios,Minnesota Twins,1,Top 25,2018,AL
+2018 American League Pitcher Review,Strikeouts,Justin Verlander,Houston Astros,290,Top 25,2018,AL
+2018 American League Pitcher Review,Winning Percentage,Charlie Morton,Houston Astros,.833,Top 25,2018,AL
+2018 American League Pitcher Review,Wins,Blake Snell,Tampa Bay Rays,21,Top 25,2018,AL
+2018 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2018,AL
+2018 National League Player Review,Statistic,Name,Team,#,Top 25,2018,NL
+2018 National League Player Review,Base on Balls,Bryce Harper,Washington Nationals,130,Top 25,2018,NL
+2018 National League Player Review,Batting Average,Christian Yelich,Milwaukee Brewers,.326,Top 25,2018,NL
+2018 National League Player Review,Doubles,Freddie Freeman,Atlanta Braves,44,Top 25,2018,NL
+2018 National League Player Review,Hits,Freddie Freeman,Atlanta Braves,191,Top 25,2018,NL
+2018 National League Player Review,Home Runs,Nolan Arenado,Colorado Rockies,38,Top 25,2018,NL
+2018 National League Player Review,On Base Percentage,Joey Votto,Cincinnati Reds,.417,Top 25,2018,NL
+2018 National League Player Review,RBI,Javier Baez,Chicago Cubs,111,Top 25,2018,NL
+2018 National League Player Review,Runs,Charlie Blackmon,Colorado Rockies,119,Top 25,2018,NL
+2018 National League Player Review,Slugging Average,Christian Yelich,Milwaukee Brewers,.598,Top 25,2018,NL
+2018 National League Player Review,Stolen Bases,Trea Turner,Washington Nationals,43,Top 25,2018,NL
+2018 National League Player Review,Total Bases,Christian Yelich,Milwaukee Brewers,343,Top 25,2018,NL
+2018 National League Player Review,Triples,Ketel Marte,Arizona Diamondbacks,12,Top 25,2018,NL
+2018 National League Player Review,Statistic,Name,Team,#,Top 25,2018,NL
+2018 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2018,NL
+2018 National League Pitcher Review,Complete Games,Michael Foltynewicz,Atlanta Braves,2,Top 25,2018,NL
+2018 National League Pitcher Review,ERA,Jacob deGrom,New York Mets,1.70,Top 25,2018,NL
+2018 National League Pitcher Review,Games,Brad Ziegler,Miami Marlins,82,Top 25,2018,NL
+2018 National League Pitcher Review,Saves,Wade Davis,Colorado Rockies,43,Top 25,2018,NL
+2018 National League Pitcher Review,Shutouts,Patrick Corbin,Arizona Diamondbacks,1,Top 25,2018,NL
+2018 National League Pitcher Review,Strikeouts,Max Scherzer,Washington Nationals,300,Top 25,2018,NL
+2018 National League Pitcher Review,Winning Percentage,Miles Mikolas,St. Louis Cardinals,.818,Top 25,2018,NL
+2018 National League Pitcher Review,Wins,Jon Lester,Chicago Cubs,18,Top 25,2018,NL
+2018 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2018,NL
+2019 American League Player Review,Statistic,Name,Team,#,Top 25,2019,AL
+2019 American League Player Review,Base on Balls,Alex Bregman,Houston Astros,119,Top 25,2019,AL
+2019 American League Player Review,Batting Average,Tim Anderson,Chicago White Sox,.335,Top 25,2019,AL
+2019 American League Player Review,Doubles,Rafael Devers,Boston Red Sox,54,Top 25,2019,AL
+2019 American League Player Review,Hits,Whit Merrifield,Kansas City Royals,206,Top 25,2019,AL
+2019 American League Player Review,Home Runs,Jorge Soler,Kansas City Royals,48,Top 25,2019,AL
+2019 American League Player Review,On Base Percentage,Mike Trout,Los Angeles Angels,.438,Top 25,2019,AL
+2019 American League Player Review,RBI,Jose Abreu,Chicago White Sox,123,Top 25,2019,AL
+2019 American League Player Review,Runs,Mookie Betts,Boston Red Sox,135,Top 25,2019,AL
+2019 American League Player Review,Slugging Average,Mike Trout,Los Angeles Angels,.645,Top 25,2019,AL
+2019 American League Player Review,Stolen Bases,Mallex Smith,Tampa Bay Rays,46,Top 25,2019,AL
+2019 American League Player Review,Total Bases,Rafael Devers,Boston Red Sox,359,Top 25,2019,AL
+2019 American League Player Review,Triples,Hunter Dozier,Kansas City Royals,10,Top 25,2019,AL
+2019 American League Player Review,Statistic,Name,Team,#,Top 25,2019,AL
+2019 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2019,AL
+2019 American League Pitcher Review,Complete Games,Shane Bieber,Cleveland Indians,3,Top 25,2019,AL
+2019 American League Pitcher Review,ERA,Gerrit Cole,Houston Astros,2.50,Top 25,2019,AL
+2019 American League Pitcher Review,Games,Yusmeiro Petit,Oakland Athletics,80,Top 25,2019,AL
+2019 American League Pitcher Review,Saves,Roberto Osuna,Houston Astros,38,Top 25,2019,AL
+2019 American League Pitcher Review,Shutouts,Shane Bieber,Cleveland Indians,2,Top 25,2019,AL
+2019 American League Pitcher Review,Strikeouts,Gerrit Cole,Houston Astros,326,Top 25,2019,AL
+2019 American League Pitcher Review,Winning Percentage,Gerrit Cole,Houston Astros,.800,Top 25,2019,AL
+2019 American League Pitcher Review,Wins,Justin Verlander,Houston Astros,21,Top 25,2019,AL
+2019 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2019,AL
+2019 National League Player Review,Statistic,Name,Team,#,Top 25,2019,NL
+2019 National League Player Review,Base on Balls,Rhys Hoskins,Philadelphia Phillies,116,Top 25,2019,NL
+2019 National League Player Review,Batting Average,Christian Yelich,Milwaukee Brewers,.329,Top 25,2019,NL
+2019 National League Player Review,Doubles,Anthony Rendon,Washington Nationals,44,Top 25,2019,NL
+2019 National League Player Review,Hits,Ozzie Albies,Atlanta Braves,189,Top 25,2019,NL
+2019 National League Player Review,Home Runs,Pete Alonso,New York Mets,53,Top 25,2019,NL
+2019 National League Player Review,On Base Percentage,Christian Yelich,Milwaukee Brewers,.429,Top 25,2019,NL
+2019 National League Player Review,RBI,Anthony Rendon,Washington Nationals,126,Top 25,2019,NL
+2019 National League Player Review,Runs,Ronald Acuna Jr.,Atlanta Braves,127,Top 25,2019,NL
+2019 National League Player Review,Slugging Average,Christian Yelich,Milwaukee Brewers,.671,Top 25,2019,NL
+2019 National League Player Review,Stolen Bases,Ronald Acuna Jr.,Atlanta Braves,37,Top 25,2019,NL
+2019 National League Player Review,Total Bases,Cody Bellinger,Los Angeles Dodgers,351,Top 25,2019,NL
+2019 National League Player Review,Triples,Eduardo Escobar,Arizona Diamondbacks,10,Top 25,2019,NL
+2019 National League Player Review,Statistic,Name,Team,#,Top25,2019,NL
+2019 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2019,NL
+2019 National League Pitcher Review,Complete Games,Sandy Alcantara,Miami Marlins,2,Top 25,2019,NL
+2019 National League Pitcher Review,ERA,Hyun-Jin Ryu,Los Angeles Dodgers,2.32,Top 25,2019,NL
+2019 National League Pitcher Review,Games,Alex Claudio,Milwaukee Brewers,83,Top 25,2019,NL
+2019 National League Pitcher Review,Saves,Kirby Yates,San Diego Padres,41,Top 25,2019,NL
+2019 National League Pitcher Review,Shutouts,Sandy Alcantara,Miami Marlins,2,Top 25,2019,NL
+2019 National League Pitcher Review,Strikeouts,Jacob deGrom,New York Mets,255,Top 25,2019,NL
+2019 National League Pitcher Review,Winning Percentage,Walker Buehler,Los Angeles Dodgers,.778,Top 25,2019,NL
+2019 National League Pitcher Review,Wins,Stephen Strasburg,Washington Nationals,18,Top 25,2019,NL
+2019 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2019,NL
+2020 American League Player Review,Statistic,Name,Team,#,Top 25,2020,AL
+2020 American League Player Review,Base on Balls,Carlos Santana,Cleveland Indians,47,Top 25,2020,AL
+2020 American League Player Review,Batting Average,DJ LeMahieu,New York Yankees,.364,Top 25,2020,AL
+2020 American League Player Review,Doubles,Cesar Hernandez,Cleveland Indians,20,Top 25,2020,AL
+2020 American League Player Review,Hits,Jose Abreu,Chicago White Sox,76,Top 25,2020,AL
+2020 American League Player Review,Home Runs,Luke Voit,New York Yankees,22,Top 25,2020,AL
+2020 American League Player Review,On Base Percentage,DJ LeMahieu,New York Yankees,.421,Top 25,2020,AL
+2020 American League Player Review,RBI,Jose Abreu,Chicago White Sox,60,Top 25,2020,AL
+2020 American League Player Review,Runs,Tim Anderson,Chicago White Sox,45,Top 25,2020,AL
+2020 American League Player Review,Slugging Average,Jose Abreu,Chicago White Sox,.617,Top 25,2020,AL
+2020 American League Player Review,Stolen Bases,Adalberto Mondesi,Kansas City Royals,24,Top 25,2020,AL
+2020 American League Player Review,Total Bases,Jose Abreu,Chicago White Sox,148,Top 25,2020,AL
+2020 American League Player Review,Triples,Kyle Tucker,Houston Astros,6,Top 25,2020,AL
+2020 American League Player Review,Statistic,Name,Team,#,Top 25,2020,AL
+2020 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2020,AL
+2020 American League Pitcher Review,Complete Games,Gerrit Cole,New York Yankees,2,Top 25,2020,AL
+2020 American League Pitcher Review,ERA,Shane Bieber,Cleveland Indians,1.63,Top 25,2020,AL
+2020 American League Pitcher Review,Games,Scott Barlow,Kansas City Royals,32,Top 25,2020,AL
+2020 American League Pitcher Review,Saves,Brad Hand,Cleveland Indians,16,Top 25,2020,AL
+2020 American League Pitcher Review,Shutouts,Gerrit Cole,New York Yankees,1,Top 25,2020,AL
+2020 American League Pitcher Review,Strikeouts,Shane Bieber,Cleveland Indians,122,Top 25,2020,AL
+2020 American League Pitcher Review,Winning Percentage,Shane Bieber,Cleveland Indians,.889,Top 25,2020,AL
+2020 American League Pitcher Review,Wins,Shane Bieber,Cleveland Indians,8,Top 25,2020,AL
+2020 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2020,AL
+2020 National League Player Review,Statistic,Name,Team,#,Top 25,2020,NL
+2020 National League Player Review,Base on Balls,Bryce Harper,Philadelphia Phillies,49,Top 25,2020,NL
+2020 National League Player Review,Batting Average,Juan Soto,Washington Nationals,.351,Top 25,2020,NL
+2020 National League Player Review,Doubles,Freddie Freeman,Atlanta Braves,23,Top 25,2020,NL
+2020 National League Player Review,Hits,Trea Turner,Washington Nationals,78,Top 25,2020,NL
+2020 National League Player Review,Home Runs,Marcell Ozuna,Atlanta Braves,18,Top 25,2020,NL
+2020 National League Player Review,On Base Percentage,Juan Soto,Washington Nationals,.490,Top 25,2020,NL
+2020 National League Player Review,RBI,Marcell Ozuna,Atlanta Braves,56,Top 25,2020,NL
+2020 National League Player Review,Runs,Freddie Freeman,Atlanta Braves,51,Top 25,2020,NL
+2020 National League Player Review,Slugging Average,Juan Soto,Washington Nationals,.695,Top 25,2020,NL
+2020 National League Player Review,Stolen Bases,Trevor Story,Colorado Rockies,15,Top 25,2020,NL
+2020 National League Player Review,Total Bases,Marcell Ozuna,Atlanta Braves,145,Top 25,2020,NL
+2020 National League Player Review,Triples,Trevor Story,Colorado Rockies,4,Top 25,2020,NL
+2020 National League Player Review,Statistic,Name,Team,#,Top 25,2020,NL
+2020 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2020,NL
+2020 National League Pitcher Review,Complete Games,Trevor Bauer,Cincinnati Reds,2,Top 25,2020,NL
+2020 National League Pitcher Review,ERA,Trevor Bauer,Cincinnati Reds,1.73,Top 25,2020,NL
+2020 National League Pitcher Review,Games,Tyler Rogers,San Francisco Giants,29,Top 25,2020,NL
+2020 National League Pitcher Review,Saves,Josh Hader,Milwaukee Brewers,13,Top 25,2020,NL
+2020 National League Pitcher Review,Shutouts,Trevor Bauer,Cincinnati Reds,2,Top 25,2020,NL
+2020 National League Pitcher Review,Strikeouts,Jacob deGrom,New York Mets,104,Top 25,2020,NL
+2020 National League Pitcher Review,Winning Percentage,Max Fried,Atlanta Braves,1.000,Top 25,2020,NL
+2020 National League Pitcher Review,Wins,Yu Darvish,Chicago Cubs,8,Top 25,2020,NL
+2020 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2020,NL
+2021 American League Player Review,Statistic,Name,Team,#,Top 25,2021,AL
+2021 American League Player Review,Base on Balls,Joey Gallo,Texas Rangers,111,Top 25,2021,AL
+2021 American League Player Review,Batting Average,Yuli Gurriel,Houston Astros,.319,Top 25,2021,AL
+2021 American League Player Review,Doubles,Jeimer Candelario,Detroit Tigers,42,Top 25,2021,AL
+2021 American League Player Review,Hits,Bo Bichette,Toronto Blue Jays,191,Top 25,2021,AL
+2021 American League Player Review,Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48,Top 25,2021,AL
+2021 American League Player Review,On Base Percentage,Vladimir Guerrero Jr.,Toronto Blue Jays,.401,Top 25,2021,AL
+2021 American League Player Review,RBI,Salvador Perez,Kansas City Royals,121,Top 25,2021,AL
+2021 American League Player Review,Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,123,Top 25,2021,AL
+2021 American League Player Review,Slugging Average,Vladimir Guerrero Jr.,Toronto Blue Jays,.601,Top 25,2021,AL
+2021 American League Player Review,Stolen Bases,Whit Merrifield,Kansas City Royals,40,Top 25,2021,AL
+2021 American League Player Review,Total Bases,Vladimir Guerrero Jr.,Toronto Blue Jays,363,Top 25,2021,AL
+2021 American League Player Review,Triples,Shohei Ohtani,Los Angeles Angels,8,Top 25,2021,AL
+2021 American League Player Review,Statistic,Name,Team,#,Top 25,2021,AL
+2021 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2021,AL
+2021 American League Pitcher Review,Complete Games,Gerrit Cole,New York Yankees,2,Top 25,2021,AL
+2021 American League Pitcher Review,ERA,Robbie Ray,Toronto Blue Jays,2.84,Top 25,2021,AL
+2021 American League Pitcher Review,Games,Bryan Shaw,Cleveland Indians,81,Top 25,2021,AL
+2021 American League Pitcher Review,Saves,Liam Hendriks,Chicago White Sox,38,Top 25,2021,AL
+2021 American League Pitcher Review,Shutouts,Sean Manaea,Oakland Athletics,2,Top 25,2021,AL
+2021 American League Pitcher Review,Strikeouts,Robbie Ray,Toronto Blue Jays,248,Top 25,2021,AL
+2021 American League Pitcher Review,Winning Percentage,"Lance McCullers, Jr.",Houston Astros,.722,Top 25,2021,AL
+2021 American League Pitcher Review,Wins,Gerrit Cole,New York Yankees,16,Top 25,2021,AL
+2021 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2021,AL
+2021 National League Player Review,Statistic,Name,Team,#,Top 25,2021,NL
+2021 National League Player Review,Base on Balls,Juan Soto,Washington Nationals,145,Top 25,2021,NL
+2021 National League Player Review,Batting Average,Trea Turner,Washington Nationals,.328,Top 25,2021,NL
+2021 National League Player Review,Doubles,Bryce Harper,Philadelphia Phillies,42,Top 25,2021,NL
+2021 National League Player Review,Hits,Trea Turner,Washington Nationals,195,Top 25,2021,NL
+2021 National League Player Review,Home Runs,Fernando Tatis Jr.,San Diego Padres,42,Top 25,2021,NL
+2021 National League Player Review,On Base Percentage,Juan Soto,Washington Nationals,.465,Top 25,2021,NL
+2021 National League Player Review,RBI,Adam Duvall,Miami Marlins,113,Top 25,2021,NL
+2021 National League Player Review,Runs,Freddie Freeman,Atlanta Braves,120,Top 25,2021,NL
+2021 National League Player Review,Slugging Average,Bryce Harper,Philadelphia Phillies,.615,Top 25,2021,NL
+2021 National League Player Review,Stolen Bases,Trea Turner,Washington Nationals,32,Top 25,2021,NL
+2021 National League Player Review,Total Bases,Trea Turner,Washington Nationals,319,Top 25,2021,NL
+2021 National League Player Review,Triples,David Peralta,Arizona Diamondbacks,8,Top 25,2021,NL
+2021 National League Player Review,Statistic,Name,Team,#,Top 25,2021,NL
+2021 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2021,NL
+2021 National League Pitcher Review,Complete Games,German Marquez,Colorado Rockies,3,Top 25,2021,NL
+2021 National League Pitcher Review,ERA,Corbin Burnes,Milwaukee Brewers,2.43,Top 25,2021,NL
+2021 National League Pitcher Review,Games,Tyler Rogers,San Francisco Giants,80,Top 25,2021,NL
+2021 National League Pitcher Review,Saves,Mark Melancon,San Diego Padres,39,Top 25,2021,NL
+2021 National League Pitcher Review,Shutouts,Anthony DeSclafani,San Francisco Giants,2,Top 25,2021,NL
+2021 National League Pitcher Review,Strikeouts,Zack Wheeler,Philadelphia Phillies,247,Top 25,2021,NL
+2021 National League Pitcher Review,Winning Percentage,Julio Urias,Los Angeles Dodgers,.870,Top 25,2021,NL
+2021 National League Pitcher Review,Wins,Julio Urias,Los Angeles Dodgers,20,Top 25,2021,NL
+2021 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2021,NL
+2022 American League Player Review,Statistic,Name,Team,#,Top 25,2022,AL
+2022 American League Player Review,Base on Balls,Aaron Judge,New York Yankees,111,Top 25,2022,AL
+2022 American League Player Review,Batting Average,Luis Arraez,Minnesota Twins,.316,Top 25,2022,AL
+2022 American League Player Review,Doubles,José Ramírez,Cleveland Guardians,44,Top 25,2022,AL
+2022 American League Player Review,Hits,Bo Bichette,Toronto Blue Jays,189,Top 25,2022,AL
+2022 American League Player Review,Home Runs,Aaron Judge,New York Yankees,62,Top 25,2022,AL
+2022 American League Player Review,On Base Percentage,Aaron Judge,New York Yankees,.425,Top 25,2022,AL
+2022 American League Player Review,RBI,Aaron Judge,New York Yankees,131,Top 25,2022,AL
+2022 American League Player Review,Runs,Aaron Judge,New York Yankees,133,Top 25,2022,AL
+2022 American League Player Review,Slugging Average,Aaron Judge,New York Yankees,.686,Top 25,2022,AL
+2022 American League Player Review,Stolen Bases,Jorge Mateo,Baltimore Orioles,35,Top 25,2022,AL
+2022 American League Player Review,Total Bases,Aaron Judge,New York Yankees,391,Top 25,2022,AL
+2022 American League Player Review,Triples,Amed Rosario,Cleveland Guardians,9,Top 25,2022,AL
+2022 American League Player Review,Statistic,Name,Team,#,Top 25,2022,AL
+2022 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2022,AL
+2022 American League Pitcher Review,Complete Games,Framber Valdez,Houston Astros,3,Top 25,2022,AL
+2022 American League Pitcher Review,ERA,Justin Verlander,Houston Astros,1.75,Top 25,2022,AL
+2022 American League Pitcher Review,Games,Adam Cimber,Toronto Blue Jays,77,Top 25,2022,AL
+2022 American League Pitcher Review,Saves,Emmanuel Clase,Cleveland Guardians,42,Top 25,2022,AL
+2022 American League Pitcher Review,Shutouts,Dylan Cease,Chicago White Sox,1,Top 25,2022,AL
+2022 American League Pitcher Review,Strikeouts,Corbin Burnes,Milwaukee Brewers,243,Top 25,2022,AL
+2022 American League Pitcher Review,Winning Percentage,Justin Verlander,Houston Astros,.818,Top 25,2022,AL
+2022 American League Pitcher Review,Wins,Justin Verlander,Houston Astros,18,Top 25,2022,AL
+2022 American League Pitcher Review,Statistic,Name,Team,#,Top 25,2022,AL
+2022 National League Player Review,Statistic,Name,Team,#,Top 25,2022,NL
+2022 National League Player Review,Base on Balls,Juan Soto,Washington Nationals,135,Top 25,2022,NL
+2022 National League Player Review,Batting Average,Jeff McNeil,New York Mets,.326,Top 25,2022,NL
+2022 National League Player Review,Doubles,Freddie Freeman,Los Angeles Dodgers,44,Top 25,2022,NL
+2022 National League Player Review,Hits,Freddie Freeman,Los Angeles Dodgers,11,Top 25,2022,NL
+2022 National League Player Review,Home Runs,Kyle Schwarber,Philadelphia Phillies,46,Top 25,2022,NL
+2022 National League Player Review,On Base Percentage,Freddie Freeman,Los Angeles Dodgers,.407,Top 25,2022,NL
+2022 National League Player Review,RBI,Pete Alonso,New York Mets,131,Top 25,2022,NL
+2022 National League Player Review,Runs,Mookie Betts,Los Angeles Dodgers,117,Top 25,2022,NL
+2022 National League Player Review,Slugging Average,Paul Goldschmidt,St. Louis Cardinals,.578,Top 25,2022,NL
+2022 National League Player Review,Stolen Bases,Jon Berti,Miami Marlins,41,Top 25,2022,NL
+2022 National League Player Review,Total Bases,Austin Riley,Atlanta Braves,325,Top 25,2022,NL
+2022 National League Player Review,Triples,Gavin Lux,Los Angeles Dodgers,7,Top 25,2022,NL
+2022 National League Player Review,Statistic,Name,Team,#,Top 25,2022,NL
+2022 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2022,NL
+2022 National League Pitcher Review,Complete Games,Sandy Alcantara,Miami Marlins,6,Top 25,2022,NL
+2022 National League Pitcher Review,ERA,Julio Urías,Los Angeles Dodgers,2.16,Top 25,2022,NL
+2022 National League Pitcher Review,Games,John Brebbia,San Francisco Giants,76,Top 25,2022,NL
+2022 National League Pitcher Review,Saves,Kenley Jansen,Atlanta Braves,41,Top 25,2022,NL
+2022 National League Pitcher Review,Shutouts,Sandy Alcantara,Miami Marlins,1,Top 25,2022,NL
+2022 National League Pitcher Review,Strikeouts,Corbin Burnes,Milwaukee Brewers,243,Top 25,2022,NL
+2022 National League Pitcher Review,Winning Percentage,Kyle Wright,Atlanta Braves,.808,Top 25,2022,NL
+2022 National League Pitcher Review,Wins,Kyle Wright,Atlanta Braves,21,Top 25,2022,NL
+2022 National League Pitcher Review,Statistic,Name,Team,#,Top 25,2022,NL
 2023 American League Player Review,Statistic,Name,Team,#,Top 25,2023,AL
 2023 American League Player Review,Base on Balls,J.P. Crawford,Seattle Mariners,94,Top 25,2023,AL
 2023 American League Player Review,Batting Average,Yandy Díaz,Tampa Bay Rays,.330,Top 25,2023,AL
